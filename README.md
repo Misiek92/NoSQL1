@@ -98,7 +98,9 @@ END;
 return array_length(table, 1);
 ```
 
-
+```
+mongod --storageEngine wiredtiger
+```
 
 
 Wszystkich tagów: 17409994
