@@ -55,7 +55,7 @@ SELECT tags[5] FROM train WHERE id = 1;
 (1 row)
 ```
 
-Do zliczenia ilości tagór skorzystałem z następującej komendy:
+Do zliczenia ilości tagów skorzystałem z następującej komendy:
 ```
 SELECT SUM(array_length(tags, 1)) FROM train;
    sum    
@@ -63,7 +63,40 @@ SELECT SUM(array_length(tags, 1)) FROM train;
  17409994
 ```
 
+Próbę zliczenia unikalnych tagów w postgresie porzuciłem, bowiem jedyny pomysł jaki miałem, wiem z doświadczenia że by trwał bardzo długo. Pseudo kod, który planowałem stworzyć
+```
+i = 1 integer,
+j = 0 integer,
+table text[],
+temp text[],
+tempLength integer,
+tempOne text,
 
+count = select count(id) from train;
+
+LOOP
+SELECT tags from train where id = i INTO temp;
+tempLength = select array_length(temp, 1);
+
+LOOP
+IF temp[j] != any table THEN
+array_append(table, temp[j])
+END IF;
+
+
+IF j = tempLength THEN
+ BREAK;
+END IF;
+END;
+
+
+IF i >= count THEN
+ BREAK;
+END;
+END;
+
+return array_length(table, 1);
+```
 
 
 
