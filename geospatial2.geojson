@@ -1,7 +1,7 @@
-  { 
-    "type": "FeatureCollection",
-    "features": [
-      { 
+{
+  "type": "FeatureCollection",
+  "features": [
+    { 
                 "type": "Feature",
                 "geometry": { 
                     "coordinates" : [ 18.667, 54.35 ], 
@@ -11,7 +11,7 @@
                     "_id" : "Gda%C5%84sk"
 
                 }
-            },{
+            }, {
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -133,5 +133,6 @@
           ]
         ]
       }
-        ]
     }
+  ]
+}
