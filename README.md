@@ -72,10 +72,11 @@ Time: 1484708,929 ms
 
 
 Zestawienie MongoDB i Postgresql
+
 | Type        | value           |
 | ------------- |:-------------:|
-| MongoDB      | 19.28m |
-| Postgresql      | 24,74 min    |
+| MongoDB      | 19.28 minut |
+| W minutach      | 24,74 minuty    |
 
 ####Zadanie 1b
 
