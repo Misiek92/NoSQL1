@@ -185,15 +185,17 @@ Funkcję oczywiście wywołujemy poprzez
 operationsOnTags();
 ```
 
-Wynik może być tylko jeden:
+Wynik:
 ```
-Liczba wszystkich tagów: 17409994
-W tym 42048 unikatowych
+Liczba wszystkich tagów:17409994
+W tym:42061 unikatowych
 ```
 
 ####Zadanie 1d
 
-Do jego wykonania wykorzystam geojson'a z listą miast dostępną [pod tym adresem](https://raw.githubusercontent.com/mahemoff/geodata/master/cities.geojson). Lista ta została sporządzona na podstawie [Wikipedii](http://en.wikipedia.org/wiki/List_of_cities_by_longitude)
+Do jego wykonania wykorzystałem geojson'a z listą miast dostępną [pod tym adresem](https://raw.githubusercontent.com/mahemoff/geodata/master/cities.geojson). Lista ta została sporządzona na podstawie [Wikipedii](http://en.wikipedia.org/wiki/List_of_cities_by_longitude). Udostępniam ją również na swoim repozytorium pod nazwą [miasta.geojson](https://github.com/Misiek92/NoSQL1/blob/master/miasta.geojson)
+
+
 
 
 
