@@ -1,8 +1,15 @@
-NoSQL Zadanie 1
-===============
+#NoSQL Zadanie 1
 
 ## Spis treści
-@@TOC@@
+- [NoSQL Zadanie 1](#nosql-zadanie-1)
+    - [Spis treści](#spis-treści)
+    - [Zadania](#zadania)
+        - [Zadanie 1a](#zadanie-1a)
+        - [Zadanie 1b](#zadanie-1b)
+        - [Zadanie 1c](#zadanie-1c)
+        - [Zadanie 1d](#zadanie-1d)
+        - [Przykładowe geospatial queries](#przykładowe-geospatial-queries)
+
 
 ## Zadania
 ### Zadanie 1a
