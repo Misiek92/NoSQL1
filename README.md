@@ -109,3 +109,5 @@ Różnych tagów: 42048
 
 
 time mongoimport -d mongoTest -c train --type csv --file trainProcessed.csv --headerline
+
+https://raw.githubusercontent.com/mahemoff/geodata/master/cities.geojson
