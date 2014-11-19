@@ -86,6 +86,8 @@ db.getglue.stats()
 
 Jako [MongoDB Driver](http://docs.mongodb.org/ecosystem/drivers/) Użyłem PyMongo
 
+### Zapytanie 1
+
 Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w jakiej ilości.
 
 #### Javascript
@@ -129,6 +131,8 @@ db.getglue.aggregate([
 | recording_artists      | 11     |
 
 ![Wykres kolowy 1](https://cloud.githubusercontent.com/assets/1538320/5107238/40db7afe-7000-11e4-9073-25aa96b112ce.png "Wykres")
+
+### Zapytanie 2
 
 Zaintrygowany tymi "recording_artists" postanowiłem to sprawdzić...
 
@@ -175,8 +179,9 @@ db.getglue.aggregate([
 
 ![Wykres kolowy 2](https://cloud.githubusercontent.com/assets/1538320/5107239/40dd3556-7000-11e4-9655-ed0468db4cc2.png "Wykres")
 
+### Zapytanie 3
 
-Wracając jednak do tematu, podstawową rzeczą jaka może przyjść do głowy mając bazę filmową jest... Sprawdzenie np. który reżyser stworzył najwięcej filmów (top 3):
+Posiadając bazę serwisu filmowego, może sprawdzić, filmy którego reżysera są najpopularniejsze w serwisie (na podstawie ilości wpisów).
 
 #### Javascript
 ```
@@ -225,7 +230,9 @@ db.getglue.aggregate([
 
 ![Wykres slupkowy 1](https://cloud.githubusercontent.com/assets/1538320/5107240/40e130b6-7000-11e4-9483-f56ebcd7b77c.png "Wykres")
 
-Wynik jak jednak widać jest nieco... niewiarygodny. Postanowiłem zatem powtórzyć zapytanie z wrażeniem, że dane filmy się mogą powtarzać.
+### Zapytanie 4
+
+Wiemy już, że to filmy Stevena Spielberga wywołują najwięcej emocji i mówi się o nich najczęściej. Który natomiast reżyser nakręcił najwięcej filmów? (top 3)
 
 #### Javascript
 ```
@@ -279,8 +286,20 @@ db.getglue.aggregate([
 
 ![Wykres slupkowy 2](https://cloud.githubusercontent.com/assets/1538320/5107241/40e3c1b4-7000-11e4-8c35-ff8eea50f2c6.png "Wykres")
 
-Jak widać, te dane są dużo sensowniejsze, mimo iż pierwsze 2 pozycje są de facto śmieciowe, to jednak wiemy, że w tej bazie najwięcej filmów nakręcił Alfred Hitchcock.
+### Zapytanie 5
 
+Powyższe wyniki dają nam kilka cennych informacji:
+- 1474 filmów w bazie nie ma określonego reżysera,
+- 54 filmy mają bliżej nieokreślonego reżysera/reżyserów
+- w tej bazie, najwięcej filmów nakręcił Alfred Hitchcock.
+
+Moglibyśmy wykorzystać tutaj
+```
+    { $skip : 2 }
+```
+Ale w takim wypadku nie byłoby to już stricte top 3.
+
+### Zapytanie 6
 
 Interesowało mnie również to, jakiego filmu najczęściej szukali internauci. Jako miernik uznałem liczbę odwiedzin.
 
