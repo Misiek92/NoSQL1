@@ -371,13 +371,12 @@ db.cities.find({loc: {$geoWithin: {$geometry: {type: "Polygon", coordinates: [[[
               16.710205078125,
               54.56569261911192
             ]]]}}}})
-            ```
-            ```
+
             { "_id" : "Gda%C5%84sk", "loc" : { "type" : "Point", "coordinates" : [ 18.667, 54.35 ] } }
 ```
             
 Zapytanie powtórzyłem też, ale dla całej Polski:
-            ```
+```
             db.cities.find({loc: {$geoWithin: {$geometry: {type: "Polygon", coordinates: [[[
               18.424072265625,
               54.92082843149136
@@ -490,9 +489,7 @@ Zapytanie powtórzyłem też, ale dla całej Polski:
               18.424072265625,
               54.92082843149136
             ]]]}}}})
-            ```
-            
-            ```
+
             { "_id" : "Gda%C5%84sk", "loc" : { "type" : "Point", "coordinates" : [ 18.667, 54.35 ] } }
 { "_id" : "Krak%C3%B3w", "loc" : { "type" : "Point", "coordinates" : [ 19.933, 50.05 ] } }
 { "_id" : "Warsaw", "loc" : { "type" : "Point", "coordinates" : [ 21, 52.233 ] } }
