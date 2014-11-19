@@ -243,7 +243,7 @@ Funkcję oczywiście wywołuję.
 
 Do obrobienia json do geojson skorzystałem z [mongodb-geojson-normalize](https://www.npmjs.org/package/mongodb-geojson-normalize)
 
-Gdybyśmy zaginęli u wybrzeży grenlandii, jakie miasta są najbliżej?
+Gdybyśmy zaginęli u wybrzeży grenlandii, jakie miasta są najbliżej? [Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial1.geojson)
 ```
 var punkt = {
 	"type":"Point",
@@ -258,7 +258,7 @@ db.cities.find({ loc: {$near: {$geometry: punkt}} }).limit(5)
 { "_id" : "St. John%27s", "loc" : { "type" : "Point", "coordinates" : [ -52.7, 47.55 ] } }
 ```
 
-Za pomocą [http://geojson.io/#map=2/20.0/0.0](http://geojson.io/#map=2/20.0/0.0) Stworzyłem pseuo kształt województwa pomorskiego i zamierzam sprawdzić, czy w mojej bazie znajdują się miejscowości w tym województwie.
+Za pomocą [http://geojson.io/#map=2/20.0/0.0](http://geojson.io/#map=2/20.0/0.0) Stworzyłem pseuo kształt województwa pomorskiego i zamierzam sprawdzić, czy w mojej bazie znajdują się miejscowości w tym województwie. [Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial2.geojson)
 
 ```
 db.cities.find({loc: {$geoWithin: {$geometry: {type: "Polygon", coordinates: [[[
@@ -377,7 +377,7 @@ db.cities.find({loc: {$geoWithin: {$geometry: {type: "Polygon", coordinates: [[[
             { "_id" : "Gda%C5%84sk", "loc" : { "type" : "Point", "coordinates" : [ 18.667, 54.35 ] } }
 ```
             
-Zapytanie powtórzyłem też, ale dla całej Polski:
+Zapytanie powtórzyłem też, ale dla całej Polski [Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial3.geojson):
 ```
             db.cities.find({loc: {$geoWithin: {$geometry: {type: "Polygon", coordinates: [[[
               18.424072265625,
@@ -497,7 +497,7 @@ Zapytanie powtórzyłem też, ale dla całej Polski:
 { "_id" : "Warsaw", "loc" : { "type" : "Point", "coordinates" : [ 21, 52.233 ] } }
 ```
 
-
+[Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial4.geojson)
 ```
 db.cities.find({ loc: {$near: {$geometry: punkt}} }).limit(5)
 { "_id" : "Valletta", "loc" : { "type" : "Point", "coordinates" : [ 14.5, 35.9 ] } }
@@ -508,12 +508,14 @@ db.cities.find({ loc: {$near: {$geometry: punkt}} }).limit(5)
 > 
 ```
 
+[Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial5.geojson)
 ```
 db.cities.find({loc: {$geoIntersects: {$geometry: {type: "LineString", coordinates: [[2.6, -90],[2.6, 90]]}}}})
 { "_id" : "Porto-Novo", "loc" : { "type" : "Point", "coordinates" : [ 2.6, 6.5 ] } }
 ```
 
 
+[Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial6.geojson)
 ```
 db.cities.find({loc: { $geoWithin : {
 ...   $center : [[0, 0], 10],
