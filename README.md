@@ -18,6 +18,11 @@ real    14m49.281s
 user    2m58.216s
 sys     1m53.482s
 ```
+| Type        | value           |
+| ------------- |:-------------:|
+| real      | 14m49.281s |
+| user      | 2m58.216s     |
+| sys | 1m53.482s      |
 
 By uruchomić mongo wraz z storageEngine wiredtiger należy odpalić deamona z dodatkowym parametrem jak poniżej
 ```
