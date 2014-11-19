@@ -50,6 +50,30 @@ sys	0m45.921s
 | user      | 5m45.810s     |
 | sys | 0m45.921s      |
 
+Statystyki:
+```
+db.train.stats()
+{
+	"ns" : "mongoTest.train",
+	"count" : 6034195,
+	"size" : 10678489296,
+	"avgObjSize" : 1769,
+	"numExtents" : 26,
+	"storageSize" : 10832121824,
+	"nindexes" : 1,
+	"lastExtentSize" : 2146426864,
+	"paddingFactor" : 1,
+	"paddingFactorNote" : "paddingFactor is unused and unmaintained in 2.8. It remains hard coded to 1.0 for compatibility only.",
+	"userFlags" : 1,
+	"totalIndexSize" : 168973392,
+	"indexSizes" : {
+		"_id_" : 168973392
+	},
+	"ok" : 1
+}
+```
+
+
 Przyszedł czas wykonać te same operacje, lecz dla bazy postgres. Do tego celu, trzeba wcześniej stworzyć nową tabelę:
 ```
 CREATE TABLE train(id integer PRIMARY KEY NOT NULL,title varchar(256) NOT NULL,body text NOT NULL,tags varchar(256) NOT NULL);
