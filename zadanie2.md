@@ -1,6 +1,11 @@
 Zadanie 2 NoSQL
 ===============
 
+## Spis treści
+@@TOC@@
+
+##Wprowadzenie
+
 Do tego zadania skorzystałem z pliku [GetGlue](http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz) dostępnego na stronie z zadaniami.
 
 Po pobraniu i rozpakowanie pliku sprawdziłem, w jakim stanie jest owy plik, by wiedzieć co dalej robić. Pomogła mi z tym komenda
