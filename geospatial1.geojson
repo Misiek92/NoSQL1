@@ -8,7 +8,7 @@
                     "type" : "Point" 
                 },
                 "properties": {
-                    "_id" : "Yamoussoukro", 
+                    "_id" : "Yamoussoukro"
 
                 }
             }, { 
@@ -18,7 +18,7 @@
                     "type" : "Point" 
                 },
                 "properties": {
-                    "_id" : "Reykjav%C3%ADk", 
+                    "_id" : "Reykjav%C3%ADk"
                 }
             }, { 
                 "type": "Feature",
@@ -27,7 +27,7 @@
                     "type" : "Point" 
                 },
                 "properties": {
-                    "_id" : "Stanley", 
+                    "_id" : "Stanley"
                 }
             }, { 
                 "type": "Feature",
@@ -36,7 +36,7 @@
                     "type" : "Point" 
                 },
                 "properties": {
-                    "_id" : "Iqaluit", 
+                    "_id" : "Iqaluit"
                 }
             }, { 
                 "type": "Feature",
@@ -45,7 +45,7 @@
                     "type" : "Point" 
                 },
                 "properties": {
-                    "_id" : "St. John%27s", 
+                    "_id" : "St. John%27s"
                 }
             }
         ]
