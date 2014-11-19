@@ -1,0 +1,52 @@
+  { 
+    "type": "FeatureCollection",
+    "features": [
+      { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 14.5, 35.9 ], 
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Valletta"
+
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 14.45, 35.883 ],
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Birkirkara"
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 14.25, 40.833 ],
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Naples"
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 19.817, 41.317 ],
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Tirana"
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 12.5, 41.9 ],
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Rome"
+                }
+            }
+        ]
+    }
