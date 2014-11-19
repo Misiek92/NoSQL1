@@ -193,7 +193,19 @@ W tym:42061 unikatowych
 
 ####Zadanie 1d
 
-Do jego wykonania wykorzystałem geojson'a z listą miast dostępną [pod tym adresem](https://raw.githubusercontent.com/mahemoff/geodata/master/cities.geojson). Lista ta została sporządzona na podstawie [Wikipedii](http://en.wikipedia.org/wiki/List_of_cities_by_longitude). Udostępniam ją również na swoim repozytorium pod nazwą [miasta.geojson](https://github.com/Misiek92/NoSQL1/blob/master/miasta.geojson)
+Na potrzeby tego zadania stworzyłem własną listę miast [cities.json](https://github.com/Misiek92/NoSQL1/blob/master/cities.json) na podstawie [Wikipedii](http://en.wikipedia.org/wiki/List_of_cities_by_longitude).
+
+Wpierw trzeba zaimportować go do mongo:
+```
+mongoimport -d mongoTest -c cities < cities.json
+```
+
+a następnie:
+```
+db.cities.ensureIndex({"loc" : "2dsphere"})
+```
+
+
 
 
 
