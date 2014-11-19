@@ -82,3 +82,54 @@ db.getglue.stats()
 }
 ```
 
+### Agregacje
+
+Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w jakiej ilości.
+```
+> db.getglue.aggregate(
+...    { $group: {
+...        _id: "$modelName",
+...        total: { $sum: 1 }
+...    } },
+...    { $sort: { total: -1 } }
+...  )
+{ "_id" : "tv_shows", "total" : 12258355 }
+{ "_id" : "movies", "total" : 7572855 }
+{ "_id" : null, "total" : 56 }
+{ "_id" : "topics", "total" : 23 }
+{ "_id" : "recording_artists", "total" : 11 }
+```
+| modelName        | total           |
+| ------------- |:-------------:|
+| tv_shows      | 12258355 |
+| movies      | 7572855     |
+| null      | 56      |
+| topics      | 23     |
+| recording_artists      | 11     |
+
+Zaintrygowany tymi "recording_artists" postanowiłem to sprawdzić...
+```
+db.getglue.aggregate(
+   { $match: {
+	"modelName": "recording_artists"
+   } },
+   { $group: {
+       _id: "$title",
+       total: { $sum: 1 }
+   } }
+)
+```
+
+Wynik jednak nieco mnie rozczarował, bo jest niewiele mówiący
+```
+{ "_id" : "net@night", "total" : 4 }
+{ "_id" : "Engadget", "total" : 2 }
+{ "_id" : "Twit", "total" : 5 }
+```
+| _id        | total           |
+| ------------- |:-------------:|
+| net@night      | 4 |
+| Engadget      | 2     |
+| Twit      | 5      |
+
+
