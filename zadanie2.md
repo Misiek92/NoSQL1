@@ -84,6 +84,8 @@ db.getglue.stats()
 
 ### Agregacje
 
+Jako [MongoDB Driver](http://docs.mongodb.org/ecosystem/drivers/) Użyłem PyMongo
+
 Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w jakiej ilości.
 
 ##### Javascript
@@ -102,7 +104,7 @@ Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w
 { "_id" : "recording_artists", "total" : 11 }
 ```
 
-##### pymongo
+##### PyMongo
 ```
 >>> import pymongo
 >>> client = pymongo.MongoClient("localhost", 27017)
@@ -149,7 +151,7 @@ Wynik jednak nieco mnie rozczarował, bo jest niewiele mówiący
 { "_id" : "Twit", "total" : 5 }
 ```
 
-##### pymongo
+##### PyMongo
 ```
 db.getglue.aggregate([
    { "$match": {
@@ -194,7 +196,7 @@ db.getglue.aggregate(
 { "_id" : "bill condon", "total" : 97818 }
 ```
 
-##### pymongo
+##### PyMongo
 ```
 db.getglue.aggregate([
    { "$match": {
@@ -209,7 +211,7 @@ db.getglue.aggregate([
    } },
    { "$limit": 3 }
 ])
-
+{u'ok': 1.0, u'result': [{u'total': 108553, u'_id': u'steven spielberg'}, {u'total': 101732, u'_id': u'tim burton'}, {u'total': 97818, u'_id': u'bill condon'}]}
 ```
 
 | _id        | total           |
@@ -243,9 +245,24 @@ db.getglue.aggregate(
 { "_id" : "alfred hitchcock", "total" : 50 }
 ```
 
-##### pymongo
+##### PyMongo
 ```
-
+db.getglue.aggregate([
+   { "$match": {
+	"modelName": "movies"
+   } },
+   { "$group": {
+       "_id": {"director": "$director", "id": "$title"}
+   } },
+   { "$group": {
+       "_id": "$_id.director",
+       "total": { "$sum": 1 }
+   } },
+   { "$sort": { 
+	"total": -1 
+   } },
+   { "$limit": 3 }
+])
 ```
 
 | _id        | total           |
@@ -278,7 +295,18 @@ db.getglue.aggregate(
 { "_id" : { "title" : "Extreme Ice: Nova" } }
 ```
 
-##### pymongo
+##### PyMongo
 ```
-
+db.getglue.aggregate([
+   { "$match": {
+	"modelName": "movies"
+   } },
+   { "$group": {
+	"_id": {"title": "$title", "visitCount": "$visitCount"}
+   } },
+   { "$sort": { 
+	"visitCount": -1 
+   } },
+   { "$limit": 3 }
+])
 ```
