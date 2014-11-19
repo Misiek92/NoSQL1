@@ -44,6 +44,11 @@ user	5m45.810s
 sys	0m45.921s
 
 ```
+| Type        | value           |
+| ------------- |:-------------:|
+| real      | 19m28.634s |
+| user      | 5m45.810s     |
+| sys | 0m45.921s      |
 
 Przyszedł czas wykonać te same operacje, lecz dla bazy postgres. Do tego celu, trzeba wcześniej stworzyć nową tabelę:
 ```
@@ -60,6 +65,17 @@ Czas wraz z ilością dodanych wierszy
 COPY 6034195
 Time: 1484708,929 ms
 ```
+| Type        | value           |
+| ------------- |:-------------:|
+| Time      | 1484708,929 ms |
+| W minutach      | 24,74 min    |
+
+
+Zestawienie MongoDB i Postgresql
+| Type        | value           |
+| ------------- |:-------------:|
+| MongoDB      | 19.28m |
+| Postgresql      | 24,74 min    |
 
 ####Zadanie 1b
 
@@ -195,6 +211,10 @@ Wynik:
 Liczba wszystkich tagów:17409994
 W tym:42061 unikatowych
 ```
+| Type        | value           |
+| ------------- |:-------------:|
+| Łącznie      | 17409994 |
+| Unikatowych      | 42061    |
 
 ####Zadanie 1d
 
