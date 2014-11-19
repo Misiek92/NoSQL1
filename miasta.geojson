@@ -10,7 +10,7 @@
 			"wikipedia": "Adak,_Alaska",
 			"city": "Adak"
 		},
-		"id": "Adak"
+		"_id": "Adak"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -21,7 +21,7 @@
 			"wikipedia": "Nuku%CA%BBalofa",
 			"city": "Nuku%CA%BBalofa"
 		},
-		"id": "Nuku%CA%BBalofa"
+		"_id": "Nuku%CA%BBalofa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -32,7 +32,7 @@
 			"wikipedia": "Apia",
 			"city": "Apia"
 		},
-		"id": "Apia"
+		"_id": "Apia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -43,7 +43,7 @@
 			"wikipedia": "Pago_Pago",
 			"city": "Pago Pago"
 		},
-		"id": "Pago Pago"
+		"_id": "Pago Pago"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -54,7 +54,7 @@
 			"wikipedia": "Alofi",
 			"city": "Alofi"
 		},
-		"id": "Alofi"
+		"_id": "Alofi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -65,7 +65,7 @@
 			"wikipedia": "Avarua",
 			"city": "Avarua"
 		},
-		"id": "Avarua"
+		"_id": "Avarua"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -76,7 +76,7 @@
 			"wikipedia": "Honolulu",
 			"city": "Honolulu"
 		},
-		"id": "Honolulu"
+		"_id": "Honolulu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -87,7 +87,7 @@
 			"wikipedia": "Hilo,_Hawaii",
 			"city": "Hilo"
 		},
-		"id": "Hilo"
+		"_id": "Hilo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -98,7 +98,7 @@
 			"wikipedia": "Anchorage,_Alaska",
 			"city": "Anchorage"
 		},
-		"id": "Anchorage"
+		"_id": "Anchorage"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -109,7 +109,7 @@
 			"wikipedia": "Papeete",
 			"city": "Papeete"
 		},
-		"id": "Papeete"
+		"_id": "Papeete"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -120,7 +120,7 @@
 			"wikipedia": "Fairbanks,_Alaska",
 			"city": "Fairbanks"
 		},
-		"id": "Fairbanks"
+		"_id": "Fairbanks"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -131,7 +131,7 @@
 			"wikipedia": "Sitka,_Alaska",
 			"city": "Sitka"
 		},
-		"id": "Sitka"
+		"_id": "Sitka"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -142,7 +142,7 @@
 			"wikipedia": "Whitehorse,_Yukon",
 			"city": "Whitehorse"
 		},
-		"id": "Whitehorse"
+		"_id": "Whitehorse"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -153,7 +153,7 @@
 			"wikipedia": "Juneau,_Alaska",
 			"city": "Juneau"
 		},
-		"id": "Juneau"
+		"_id": "Juneau"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -164,7 +164,7 @@
 			"wikipedia": "Adamstown,_Pitcairn_Islands",
 			"city": "Adamstown"
 		},
-		"id": "Adamstown"
+		"_id": "Adamstown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -175,7 +175,7 @@
 			"wikipedia": "Vancouver",
 			"city": "Vancouver"
 		},
-		"id": "Vancouver"
+		"_id": "Vancouver"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -186,7 +186,7 @@
 			"wikipedia": "Rabi_Island",
 			"city": "Rabi Island"
 		},
-		"id": "Rabi Island"
+		"_id": "Rabi Island"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -197,7 +197,7 @@
 			"wikipedia": "Portland,_Oregon",
 			"city": "Portland"
 		},
-		"id": "Portland"
+		"_id": "Portland"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -208,7 +208,7 @@
 			"wikipedia": "San_Francisco",
 			"city": "San Francisco"
 		},
-		"id": "San Francisco"
+		"_id": "San Francisco"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -219,7 +219,7 @@
 			"wikipedia": "Seattle",
 			"city": "Seattle"
 		},
-		"id": "Seattle"
+		"_id": "Seattle"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -230,7 +230,7 @@
 			"wikipedia": "Sacramento,_California",
 			"city": "Sacramento"
 		},
-		"id": "Sacramento"
+		"_id": "Sacramento"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -241,7 +241,7 @@
 			"wikipedia": "Los_Angeles",
 			"city": "Los Angeles"
 		},
-		"id": "Los Angeles"
+		"_id": "Los Angeles"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -249,10 +249,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Riverside,_California",
-			"city": "Riverside"
+			"wikipedia": "Rivers_ide,_California",
+			"city": "Rivers_ide"
 		},
-		"id": "Riverside"
+		"_id": "Rivers_ide"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -263,7 +263,7 @@
 			"wikipedia": "San_Diego",
 			"city": "San Diego"
 		},
-		"id": "San Diego"
+		"_id": "San Diego"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -274,7 +274,7 @@
 			"wikipedia": "Tijuana",
 			"city": "Tijuana"
 		},
-		"id": "Tijuana"
+		"_id": "Tijuana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -285,7 +285,7 @@
 			"wikipedia": "Mexicali",
 			"city": "Mexicali"
 		},
-		"id": "Mexicali"
+		"_id": "Mexicali"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -296,7 +296,7 @@
 			"wikipedia": "Las_Vegas,_Nevada",
 			"city": "Las Vegas"
 		},
-		"id": "Las Vegas"
+		"_id": "Las Vegas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -307,7 +307,7 @@
 			"wikipedia": "Yellowknife",
 			"city": "Yellowknife"
 		},
-		"id": "Yellowknife"
+		"_id": "Yellowknife"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -318,7 +318,7 @@
 			"wikipedia": "Calgary",
 			"city": "Calgary"
 		},
-		"id": "Calgary"
+		"_id": "Calgary"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -329,7 +329,7 @@
 			"wikipedia": "Edmonton",
 			"city": "Edmonton"
 		},
-		"id": "Edmonton"
+		"_id": "Edmonton"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -340,7 +340,7 @@
 			"wikipedia": "Phoenix,_Arizona",
 			"city": "Phoenix"
 		},
-		"id": "Phoenix"
+		"_id": "Phoenix"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -351,7 +351,7 @@
 			"wikipedia": "Salt_Lake_City",
 			"city": "Salt Lake City"
 		},
-		"id": "Salt Lake City"
+		"_id": "Salt Lake City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -362,7 +362,7 @@
 			"wikipedia": "Tucson,_Arizona",
 			"city": "Tucson"
 		},
-		"id": "Tucson"
+		"_id": "Tucson"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -373,7 +373,7 @@
 			"wikipedia": "Hanga_Roa",
 			"city": "Hanga Roa"
 		},
-		"id": "Hanga Roa"
+		"_id": "Hanga Roa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -384,7 +384,7 @@
 			"wikipedia": "Saskatoon",
 			"city": "Saskatoon"
 		},
-		"id": "Saskatoon"
+		"_id": "Saskatoon"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -395,7 +395,7 @@
 			"wikipedia": "Albuquerque,_New_Mexico",
 			"city": "Albuquerque"
 		},
-		"id": "Albuquerque"
+		"_id": "Albuquerque"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -406,7 +406,7 @@
 			"wikipedia": "El_Paso,_Texas",
 			"city": "El Paso"
 		},
-		"id": "El Paso"
+		"_id": "El Paso"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -417,7 +417,7 @@
 			"wikipedia": "Chihuahua,_Chihuahua",
 			"city": "Chihuahua"
 		},
-		"id": "Chihuahua"
+		"_id": "Chihuahua"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -428,7 +428,7 @@
 			"wikipedia": "Denver",
 			"city": "Denver"
 		},
-		"id": "Denver"
+		"_id": "Denver"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -439,7 +439,7 @@
 			"wikipedia": "Durango,_Durango",
 			"city": "Durango"
 		},
-		"id": "Durango"
+		"_id": "Durango"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -450,7 +450,7 @@
 			"wikipedia": "Regina,_Saskatchewan",
 			"city": "Regina"
 		},
-		"id": "Regina"
+		"_id": "Regina"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -461,7 +461,7 @@
 			"wikipedia": "Zapopan,_Jalisco",
 			"city": "Zapopan"
 		},
-		"id": "Zapopan"
+		"_id": "Zapopan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -472,7 +472,7 @@
 			"wikipedia": "Guadalajara,_Jalisco",
 			"city": "Guadalajara"
 		},
-		"id": "Guadalajara"
+		"_id": "Guadalajara"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -483,7 +483,7 @@
 			"wikipedia": "Monterrey",
 			"city": "Monterrey"
 		},
-		"id": "Monterrey"
+		"_id": "Monterrey"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -494,7 +494,7 @@
 			"wikipedia": "Mexico_City",
 			"city": "Mexico City"
 		},
-		"id": "Mexico City"
+		"_id": "Mexico City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -505,7 +505,7 @@
 			"wikipedia": "San_Antonio",
 			"city": "San Antonio"
 		},
-		"id": "San Antonio"
+		"_id": "San Antonio"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -516,7 +516,7 @@
 			"wikipedia": "Puebla,_Puebla",
 			"city": "Puebla"
 		},
-		"id": "Puebla"
+		"_id": "Puebla"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -527,7 +527,7 @@
 			"wikipedia": "Austin,_Texas",
 			"city": "Austin"
 		},
-		"id": "Austin"
+		"_id": "Austin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -538,7 +538,7 @@
 			"wikipedia": "Oklahoma_City",
 			"city": "Oklahoma City"
 		},
-		"id": "Oklahoma City"
+		"_id": "Oklahoma City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -549,7 +549,7 @@
 			"wikipedia": "Wichita,_Kansas",
 			"city": "Wichita"
 		},
-		"id": "Wichita"
+		"_id": "Wichita"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -560,7 +560,7 @@
 			"wikipedia": "Winnipeg",
 			"city": "Winnipeg"
 		},
-		"id": "Winnipeg"
+		"_id": "Winnipeg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -571,7 +571,7 @@
 			"wikipedia": "Dallas",
 			"city": "Dallas"
 		},
-		"id": "Dallas"
+		"_id": "Dallas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -582,7 +582,7 @@
 			"wikipedia": "Veracruz,_Veracruz",
 			"city": "Veracruz"
 		},
-		"id": "Veracruz"
+		"_id": "Veracruz"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -593,7 +593,7 @@
 			"wikipedia": "Houston",
 			"city": "Houston"
 		},
-		"id": "Houston"
+		"_id": "Houston"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -604,7 +604,7 @@
 			"wikipedia": "Kansas_City,_Missouri",
 			"city": "Kansas City"
 		},
-		"id": "Kansas City"
+		"_id": "Kansas City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -615,7 +615,7 @@
 			"wikipedia": "Minneapolis",
 			"city": "Minneapolis"
 		},
-		"id": "Minneapolis"
+		"_id": "Minneapolis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -626,7 +626,7 @@
 			"wikipedia": "Quetzaltenango",
 			"city": "Quetzaltenango"
 		},
-		"id": "Quetzaltenango"
+		"_id": "Quetzaltenango"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -637,7 +637,7 @@
 			"wikipedia": "Guatemala_City",
 			"city": "Guatemala City"
 		},
-		"id": "Guatemala City"
+		"_id": "Guatemala City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -648,7 +648,7 @@
 			"wikipedia": "St._Louis,_Missouri",
 			"city": "St. Louis"
 		},
-		"id": "St. Louis"
+		"_id": "St. Louis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -659,7 +659,7 @@
 			"wikipedia": "New_Orleans",
 			"city": "New Orleans"
 		},
-		"id": "New Orleans"
+		"_id": "New Orleans"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -670,7 +670,7 @@
 			"wikipedia": "Memphis,_Tennessee",
 			"city": "Memphis"
 		},
-		"id": "Memphis"
+		"_id": "Memphis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -678,10 +678,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "M%C3%A9rida,_Yucat%C3%A1n",
-			"city": "M%C3%A9rida"
+			"wikipedia": "M%C3%A9r_ida,_Yucat%C3%A1n",
+			"city": "M%C3%A9r_ida"
 		},
-		"id": "M%C3%A9rida"
+		"_id": "M%C3%A9r_ida"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -692,7 +692,7 @@
 			"wikipedia": "San_Salvador",
 			"city": "San Salvador"
 		},
-		"id": "San Salvador"
+		"_id": "San Salvador"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -703,7 +703,7 @@
 			"wikipedia": "Belmopan",
 			"city": "Belmopan"
 		},
-		"id": "Belmopan"
+		"_id": "Belmopan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -714,7 +714,7 @@
 			"wikipedia": "Belize_City",
 			"city": "Belize City"
 		},
-		"id": "Belize City"
+		"_id": "Belize City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -725,7 +725,7 @@
 			"wikipedia": "Milwaukee",
 			"city": "Milwaukee"
 		},
-		"id": "Milwaukee"
+		"_id": "Milwaukee"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -736,7 +736,7 @@
 			"wikipedia": "Chicago",
 			"city": "Chicago"
 		},
-		"id": "Chicago"
+		"_id": "Chicago"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -747,7 +747,7 @@
 			"wikipedia": "Tegucigalpa",
 			"city": "Tegucigalpa"
 		},
-		"id": "Tegucigalpa"
+		"_id": "Tegucigalpa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -758,7 +758,7 @@
 			"wikipedia": "Nashville,_Tennessee",
 			"city": "Nashville"
 		},
-		"id": "Nashville"
+		"_id": "Nashville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -769,7 +769,7 @@
 			"wikipedia": "Managua",
 			"city": "Managua"
 		},
-		"id": "Managua"
+		"_id": "Managua"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -780,7 +780,7 @@
 			"wikipedia": "Indianapolis",
 			"city": "Indianapolis"
 		},
-		"id": "Indianapolis"
+		"_id": "Indianapolis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -791,7 +791,7 @@
 			"wikipedia": "Louisville,_Kentucky",
 			"city": "Louisville"
 		},
-		"id": "Louisville"
+		"_id": "Louisville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -802,7 +802,7 @@
 			"wikipedia": "Cincinnati",
 			"city": "Cincinnati"
 		},
-		"id": "Cincinnati"
+		"_id": "Cincinnati"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -813,7 +813,7 @@
 			"wikipedia": "Atlanta",
 			"city": "Atlanta"
 		},
-		"id": "Atlanta"
+		"_id": "Atlanta"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -824,7 +824,7 @@
 			"wikipedia": "San_Jos%C3%A9,_Costa_Rica",
 			"city": "San Jos%C3%A9"
 		},
-		"id": "San Jos%C3%A9"
+		"_id": "San Jos%C3%A9"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -835,7 +835,7 @@
 			"wikipedia": "Detroit",
 			"city": "Detroit"
 		},
-		"id": "Detroit"
+		"_id": "Detroit"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -846,7 +846,7 @@
 			"wikipedia": "Columbus,_Ohio",
 			"city": "Columbus"
 		},
-		"id": "Columbus"
+		"_id": "Columbus"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -854,10 +854,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Tampa,_Florida",
+			"wikipedia": "Tampa,_Flor_ida",
 			"city": "Tampa"
 		},
-		"id": "Tampa"
+		"_id": "Tampa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -868,7 +868,7 @@
 			"wikipedia": "Havana",
 			"city": "Havana"
 		},
-		"id": "Havana"
+		"_id": "Havana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -879,7 +879,7 @@
 			"wikipedia": "Cleveland",
 			"city": "Cleveland"
 		},
-		"id": "Cleveland"
+		"_id": "Cleveland"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -887,10 +887,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Jacksonville,_Florida",
+			"wikipedia": "Jacksonville,_Flor_ida",
 			"city": "Jacksonville"
 		},
-		"id": "Jacksonville"
+		"_id": "Jacksonville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -901,7 +901,7 @@
 			"wikipedia": "George_Town,_Penang",
 			"city": "George Town"
 		},
-		"id": "George Town"
+		"_id": "George Town"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -912,7 +912,7 @@
 			"wikipedia": "Charlotte,_North_Carolina",
 			"city": "Charlotte"
 		},
-		"id": "Charlotte"
+		"_id": "Charlotte"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -923,7 +923,7 @@
 			"wikipedia": "Miami",
 			"city": "Miami"
 		},
-		"id": "Miami"
+		"_id": "Miami"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -934,7 +934,7 @@
 			"wikipedia": "Pittsburgh",
 			"city": "Pittsburgh"
 		},
-		"id": "Pittsburgh"
+		"_id": "Pittsburgh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -945,7 +945,7 @@
 			"wikipedia": "Guayaquil",
 			"city": "Guayaquil"
 		},
-		"id": "Guayaquil"
+		"_id": "Guayaquil"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -956,7 +956,7 @@
 			"wikipedia": "Panama_City",
 			"city": "Panama City"
 		},
-		"id": "Panama City"
+		"_id": "Panama City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -967,7 +967,7 @@
 			"wikipedia": "Toronto",
 			"city": "Toronto"
 		},
-		"id": "Toronto"
+		"_id": "Toronto"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -978,7 +978,7 @@
 			"wikipedia": "Buffalo,_New_York",
 			"city": "Buffalo"
 		},
-		"id": "Buffalo"
+		"_id": "Buffalo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -989,7 +989,7 @@
 			"wikipedia": "Raleigh,_North_Carolina",
 			"city": "Raleigh"
 		},
-		"id": "Raleigh"
+		"_id": "Raleigh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1000,7 +1000,7 @@
 			"wikipedia": "Quito",
 			"city": "Quito"
 		},
-		"id": "Quito"
+		"_id": "Quito"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1011,7 +1011,7 @@
 			"wikipedia": "Rochester,_New_York",
 			"city": "Rochester"
 		},
-		"id": "Rochester"
+		"_id": "Rochester"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1022,7 +1022,7 @@
 			"wikipedia": "Nassau,_Bahamas",
 			"city": "Nassau"
 		},
-		"id": "Nassau"
+		"_id": "Nassau"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1033,7 +1033,7 @@
 			"wikipedia": "Washington,_D.C.",
 			"city": "Washington"
 		},
-		"id": "Washington"
+		"_id": "Washington"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1044,7 +1044,7 @@
 			"wikipedia": "Lima",
 			"city": "Lima"
 		},
-		"id": "Lima"
+		"_id": "Lima"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1055,7 +1055,7 @@
 			"wikipedia": "Kingston,_Norfolk_Island",
 			"city": "Kingston"
 		},
-		"id": "Kingston"
+		"_id": "Kingston"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1066,7 +1066,7 @@
 			"wikipedia": "Baltimore",
 			"city": "Baltimore"
 		},
-		"id": "Baltimore"
+		"_id": "Baltimore"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1077,7 +1077,7 @@
 			"wikipedia": "Cali",
 			"city": "Cali"
 		},
-		"id": "Cali"
+		"_id": "Cali"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1088,7 +1088,7 @@
 			"wikipedia": "Virginia_Beach",
 			"city": "Virginia Beach"
 		},
-		"id": "Virginia Beach"
+		"_id": "Virginia Beach"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1099,7 +1099,7 @@
 			"wikipedia": "Santiago_de_Cuba",
 			"city": "Santiago de Cuba"
 		},
-		"id": "Santiago de Cuba"
+		"_id": "Santiago de Cuba"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1110,7 +1110,7 @@
 			"wikipedia": "Ottawa",
 			"city": "Ottawa"
 		},
-		"id": "Ottawa"
+		"_id": "Ottawa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1121,7 +1121,7 @@
 			"wikipedia": "Medell%C3%ADn",
 			"city": "Medell%C3%ADn"
 		},
-		"id": "Medell%C3%ADn"
+		"_id": "Medell%C3%ADn"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1132,7 +1132,7 @@
 			"wikipedia": "Cartagena,_Colombia",
 			"city": "Cartagena"
 		},
-		"id": "Cartagena"
+		"_id": "Cartagena"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1143,7 +1143,7 @@
 			"wikipedia": "Philadelphia",
 			"city": "Philadelphia"
 		},
-		"id": "Philadelphia"
+		"_id": "Philadelphia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1154,7 +1154,7 @@
 			"wikipedia": "Barranquilla",
 			"city": "Barranquilla"
 		},
-		"id": "Barranquilla"
+		"_id": "Barranquilla"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1165,7 +1165,7 @@
 			"wikipedia": "Forked_River",
 			"city": "Forked River"
 		},
-		"id": "Forked River"
+		"_id": "Forked River"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1176,7 +1176,7 @@
 			"wikipedia": "Jersey_City,_New_Jersey",
 			"city": "Jersey City"
 		},
-		"id": "Jersey City"
+		"_id": "Jersey City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1187,7 +1187,7 @@
 			"wikipedia": "Bogot%C3%A1",
 			"city": "Bogot%C3%A1"
 		},
-		"id": "Bogot%C3%A1"
+		"_id": "Bogot%C3%A1"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1198,7 +1198,7 @@
 			"wikipedia": "New_York_City",
 			"city": "New York City"
 		},
-		"id": "New York City"
+		"_id": "New York City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1209,7 +1209,7 @@
 			"wikipedia": "Montreal",
 			"city": "Montreal"
 		},
-		"id": "Montreal"
+		"_id": "Montreal"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1220,7 +1220,7 @@
 			"wikipedia": "Iquitos",
 			"city": "Iquitos"
 		},
-		"id": "Iquitos"
+		"_id": "Iquitos"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1231,7 +1231,7 @@
 			"wikipedia": "Valdivia,_Chile",
 			"city": "Valdivia"
 		},
-		"id": "Valdivia"
+		"_id": "Valdivia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1242,7 +1242,7 @@
 			"wikipedia": "Concepci%C3%B3n,_Chile",
 			"city": "Concepci%C3%B3n"
 		},
-		"id": "Concepci%C3%B3n"
+		"_id": "Concepci%C3%B3n"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1253,7 +1253,7 @@
 			"wikipedia": "Port-au-Prince",
 			"city": "Port-au-Prince"
 		},
-		"id": "Port-au-Prince"
+		"_id": "Port-au-Prince"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1264,7 +1264,7 @@
 			"wikipedia": "Cusco",
 			"city": "Cusco"
 		},
-		"id": "Cusco"
+		"_id": "Cusco"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1275,7 +1275,7 @@
 			"wikipedia": "Maracaibo",
 			"city": "Maracaibo"
 		},
-		"id": "Maracaibo"
+		"_id": "Maracaibo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1286,7 +1286,7 @@
 			"wikipedia": "Valpara%C3%ADso",
 			"city": "Valpara%C3%ADso"
 		},
-		"id": "Valpara%C3%ADso"
+		"_id": "Valpara%C3%ADso"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1297,7 +1297,7 @@
 			"wikipedia": "Arequipa",
 			"city": "Arequipa"
 		},
-		"id": "Arequipa"
+		"_id": "Arequipa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1305,10 +1305,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Providence,_Rhode_Island",
-			"city": "Providence"
+			"wikipedia": "Prov_idence,_Rhode_Island",
+			"city": "Prov_idence"
 		},
-		"id": "Providence"
+		"_id": "Prov_idence"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1319,7 +1319,7 @@
 			"wikipedia": "San_Carlos_de_Bariloche",
 			"city": "San Carlos de Bariloche"
 		},
-		"id": "San Carlos de Bariloche"
+		"_id": "San Carlos de Bariloche"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1330,7 +1330,7 @@
 			"wikipedia": "La_Serena,_Chile",
 			"city": "La Serena"
 		},
-		"id": "La Serena"
+		"_id": "La Serena"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1341,7 +1341,7 @@
 			"wikipedia": "Quebec_City",
 			"city": "Quebec City"
 		},
-		"id": "Quebec City"
+		"_id": "Quebec City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1352,7 +1352,7 @@
 			"wikipedia": "Cockburn_Town",
 			"city": "Cockburn Town"
 		},
-		"id": "Cockburn Town"
+		"_id": "Cockburn Town"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1363,7 +1363,7 @@
 			"wikipedia": "Boston",
 			"city": "Boston"
 		},
-		"id": "Boston"
+		"_id": "Boston"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1374,7 +1374,7 @@
 			"wikipedia": "Punta_Arenas,_Chile",
 			"city": "Punta Arenas"
 		},
-		"id": "Punta Arenas"
+		"_id": "Punta Arenas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1385,7 +1385,7 @@
 			"wikipedia": "Santiago,_Chile",
 			"city": "Santiago"
 		},
-		"id": "Santiago"
+		"_id": "Santiago"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1396,7 +1396,7 @@
 			"wikipedia": "Antofagasta",
 			"city": "Antofagasta"
 		},
-		"id": "Antofagasta"
+		"_id": "Antofagasta"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1407,7 +1407,7 @@
 			"wikipedia": "Iquique",
 			"city": "Iquique"
 		},
-		"id": "Iquique"
+		"_id": "Iquique"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1418,7 +1418,7 @@
 			"wikipedia": "Oranjestad,_Aruba",
 			"city": "Oranjestad"
 		},
-		"id": "Oranjestad"
+		"_id": "Oranjestad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1429,7 +1429,7 @@
 			"wikipedia": "Santo_Domingo",
 			"city": "Santo Domingo"
 		},
-		"id": "Santo Domingo"
+		"_id": "Santo Domingo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1440,7 +1440,7 @@
 			"wikipedia": "Rio_Branco",
 			"city": "Rio Branco"
 		},
-		"id": "Rio Branco"
+		"_id": "Rio Branco"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1451,7 +1451,7 @@
 			"wikipedia": "Willemstad",
 			"city": "Willemstad"
 		},
-		"id": "Willemstad"
+		"_id": "Willemstad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1462,7 +1462,7 @@
 			"wikipedia": "Calama,_Chile",
 			"city": "Calama"
 		},
-		"id": "Calama"
+		"_id": "Calama"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1473,7 +1473,7 @@
 			"wikipedia": "Mendoza,_Argentina",
 			"city": "Mendoza"
 		},
-		"id": "Mendoza"
+		"_id": "Mendoza"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1484,7 +1484,7 @@
 			"wikipedia": "Iqaluit",
 			"city": "Iqaluit"
 		},
-		"id": "Iqaluit"
+		"_id": "Iqaluit"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1495,7 +1495,7 @@
 			"wikipedia": "Ushuaia",
 			"city": "Ushuaia"
 		},
-		"id": "Ushuaia"
+		"_id": "Ushuaia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1506,7 +1506,7 @@
 			"wikipedia": "La_Paz",
 			"city": "La Paz"
 		},
-		"id": "La Paz"
+		"_id": "La Paz"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1517,7 +1517,7 @@
 			"wikipedia": "Puerto_Williams",
 			"city": "Puerto Williams"
 		},
-		"id": "Puerto Williams"
+		"_id": "Puerto Williams"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1528,7 +1528,7 @@
 			"wikipedia": "Caracas",
 			"city": "Caracas"
 		},
-		"id": "Caracas"
+		"_id": "Caracas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1539,7 +1539,7 @@
 			"wikipedia": "Fredericton",
 			"city": "Fredericton"
 		},
-		"id": "Fredericton"
+		"_id": "Fredericton"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1550,7 +1550,7 @@
 			"wikipedia": "San_Juan,_Puerto_Rico",
 			"city": "San Juan"
 		},
-		"id": "San Juan"
+		"_id": "San Juan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1561,7 +1561,7 @@
 			"wikipedia": "Saint_John,_New_Brunswick",
 			"city": "Saint John"
 		},
-		"id": "Saint John"
+		"_id": "Saint John"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1572,7 +1572,7 @@
 			"wikipedia": "Sucre",
 			"city": "Sucre"
 		},
-		"id": "Sucre"
+		"_id": "Sucre"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1583,7 +1583,7 @@
 			"wikipedia": "Charlotte_Amalie,_United_States_Virgin_Islands",
 			"city": "Charlotte Amalie"
 		},
-		"id": "Charlotte Amalie"
+		"_id": "Charlotte Amalie"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1594,7 +1594,7 @@
 			"wikipedia": "Hamilton,_New_Zealand",
 			"city": "Hamilton"
 		},
-		"id": "Hamilton"
+		"_id": "Hamilton"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1605,7 +1605,7 @@
 			"wikipedia": "Road_Town",
 			"city": "Road Town"
 		},
-		"id": "Road Town"
+		"_id": "Road Town"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1616,7 +1616,7 @@
 			"wikipedia": "C%C3%B3rdoba,_Argentina",
 			"city": "C%C3%B3rdoba"
 		},
-		"id": "C%C3%B3rdoba"
+		"_id": "C%C3%B3rdoba"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1627,7 +1627,7 @@
 			"wikipedia": "Porto_Velho",
 			"city": "Porto Velho"
 		},
-		"id": "Porto Velho"
+		"_id": "Porto Velho"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1638,7 +1638,7 @@
 			"wikipedia": "City_of_Halifax",
 			"city": "City of Halifax"
 		},
-		"id": "City of Halifax"
+		"_id": "City of Halifax"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1649,7 +1649,7 @@
 			"wikipedia": "Santa_Cruz_de_la_Sierra",
 			"city": "Santa Cruz de la Sierra"
 		},
-		"id": "Santa Cruz de la Sierra"
+		"_id": "Santa Cruz de la Sierra"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1660,7 +1660,7 @@
 			"wikipedia": "Charlottetown",
 			"city": "Charlottetown"
 		},
-		"id": "Charlottetown"
+		"_id": "Charlottetown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1671,7 +1671,7 @@
 			"wikipedia": "The_Valley,_Anguilla",
 			"city": "The Valley"
 		},
-		"id": "The Valley"
+		"_id": "The Valley"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1682,7 +1682,7 @@
 			"wikipedia": "Basse-Terre",
 			"city": "Basse-Terre"
 		},
-		"id": "Basse-Terre"
+		"_id": "Basse-Terre"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1693,7 +1693,7 @@
 			"wikipedia": "Bah%C3%ADa_Blanca",
 			"city": "Bah%C3%ADa Blanca"
 		},
-		"id": "Bah%C3%ADa Blanca"
+		"_id": "Bah%C3%ADa Blanca"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1704,7 +1704,7 @@
 			"wikipedia": "St._John%27s,_Newfoundland_and_Labrador",
 			"city": "St. John%27s"
 		},
-		"id": "St. John%27s"
+		"_id": "St. John%27s"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1715,7 +1715,7 @@
 			"wikipedia": "St._George%27s,_Grenada",
 			"city": "St. George%27s"
 		},
-		"id": "St. George%27s"
+		"_id": "St. George%27s"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1726,7 +1726,7 @@
 			"wikipedia": "Port_of_Spain",
 			"city": "Port of Spain"
 		},
-		"id": "Port of Spain"
+		"_id": "Port of Spain"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1734,10 +1734,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "San_Fernando,_Trinidad_and_Tobago",
+			"wikipedia": "San_Fernando,_Trin_idad_and_Tobago",
 			"city": "San Fernando"
 		},
-		"id": "San Fernando"
+		"_id": "San Fernando"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1748,7 +1748,7 @@
 			"wikipedia": "Roseau",
 			"city": "Roseau"
 		},
-		"id": "Roseau"
+		"_id": "Roseau"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1759,7 +1759,7 @@
 			"wikipedia": "Chaguanas",
 			"city": "Chaguanas"
 		},
-		"id": "Chaguanas"
+		"_id": "Chaguanas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1770,7 +1770,7 @@
 			"wikipedia": "Kingstown",
 			"city": "Kingstown"
 		},
-		"id": "Kingstown"
+		"_id": "Kingstown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1781,7 +1781,7 @@
 			"wikipedia": "Fort-de-France",
 			"city": "Fort-de-France"
 		},
-		"id": "Fort-de-France"
+		"_id": "Fort-de-France"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1792,7 +1792,7 @@
 			"wikipedia": "Castries",
 			"city": "Castries"
 		},
-		"id": "Castries"
+		"_id": "Castries"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1803,7 +1803,7 @@
 			"wikipedia": "Rosario,_Santa_Fe",
 			"city": "Rosario"
 		},
-		"id": "Rosario"
+		"_id": "Rosario"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1814,7 +1814,7 @@
 			"wikipedia": "Boa_Vista,_Roraima",
 			"city": "Boa Vista"
 		},
-		"id": "Boa Vista"
+		"_id": "Boa Vista"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1825,7 +1825,7 @@
 			"wikipedia": "Manaus",
 			"city": "Manaus"
 		},
-		"id": "Manaus"
+		"_id": "Manaus"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1833,10 +1833,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Bridgetown",
-			"city": "Bridgetown"
+			"wikipedia": "Br_idgetown",
+			"city": "Br_idgetown"
 		},
-		"id": "Bridgetown"
+		"_id": "Br_idgetown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1847,7 +1847,7 @@
 			"wikipedia": "Buenos_Aires",
 			"city": "Buenos Aires"
 		},
-		"id": "Buenos Aires"
+		"_id": "Buenos Aires"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1858,7 +1858,7 @@
 			"wikipedia": "Stanley,_Falkland_Islands",
 			"city": "Stanley"
 		},
-		"id": "Stanley"
+		"_id": "Stanley"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1869,7 +1869,7 @@
 			"wikipedia": "Asunci%C3%B3n",
 			"city": "Asunci%C3%B3n"
 		},
-		"id": "Asunci%C3%B3n"
+		"_id": "Asunci%C3%B3n"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1880,7 +1880,7 @@
 			"wikipedia": "Saint-Pierre,_Saint_Pierre_and_Miquelon",
 			"city": "Saint-Pierre"
 		},
-		"id": "Saint-Pierre"
+		"_id": "Saint-Pierre"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1888,10 +1888,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Montevideo",
-			"city": "Montevideo"
+			"wikipedia": "Montev_ideo",
+			"city": "Montev_ideo"
 		},
-		"id": "Montevideo"
+		"_id": "Montev_ideo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1902,7 +1902,7 @@
 			"wikipedia": "Cuiab%C3%A1",
 			"city": "Cuiab%C3%A1"
 		},
-		"id": "Cuiab%C3%A1"
+		"_id": "Cuiab%C3%A1"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1913,7 +1913,7 @@
 			"wikipedia": "Paramaribo",
 			"city": "Paramaribo"
 		},
-		"id": "Paramaribo"
+		"_id": "Paramaribo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1924,7 +1924,7 @@
 			"wikipedia": "Campo_Grande",
 			"city": "Campo Grande"
 		},
-		"id": "Campo Grande"
+		"_id": "Campo Grande"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1935,7 +1935,7 @@
 			"wikipedia": "Ciudad_del_Este",
 			"city": "Ciudad del Este"
 		},
-		"id": "Ciudad del Este"
+		"_id": "Ciudad del Este"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1946,7 +1946,7 @@
 			"wikipedia": "Chu%C3%AD",
 			"city": "Chu%C3%AD"
 		},
-		"id": "Chu%C3%AD"
+		"_id": "Chu%C3%AD"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1957,7 +1957,7 @@
 			"wikipedia": "Pelotas",
 			"city": "Pelotas"
 		},
-		"id": "Pelotas"
+		"_id": "Pelotas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1968,7 +1968,7 @@
 			"wikipedia": "Cayenne",
 			"city": "Cayenne"
 		},
-		"id": "Cayenne"
+		"_id": "Cayenne"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1979,7 +1979,7 @@
 			"wikipedia": "Nuuk",
 			"city": "Nuuk"
 		},
-		"id": "Nuuk"
+		"_id": "Nuuk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -1990,7 +1990,7 @@
 			"wikipedia": "Porto_Alegre",
 			"city": "Porto Alegre"
 		},
-		"id": "Porto Alegre"
+		"_id": "Porto Alegre"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2001,7 +2001,7 @@
 			"wikipedia": "Macap%C3%A1",
 			"city": "Macap%C3%A1"
 		},
-		"id": "Macap%C3%A1"
+		"_id": "Macap%C3%A1"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2012,7 +2012,7 @@
 			"wikipedia": "Assis",
 			"city": "Assis"
 		},
-		"id": "Assis"
+		"_id": "Assis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2023,7 +2023,7 @@
 			"wikipedia": "Curitiba",
 			"city": "Curitiba"
 		},
-		"id": "Curitiba"
+		"_id": "Curitiba"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2034,7 +2034,7 @@
 			"wikipedia": "Bel%C3%A9m",
 			"city": "Bel%C3%A9m"
 		},
-		"id": "Bel%C3%A9m"
+		"_id": "Bel%C3%A9m"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2045,7 +2045,7 @@
 			"wikipedia": "Bras%C3%ADlia",
 			"city": "Bras%C3%ADlia"
 		},
-		"id": "Bras%C3%ADlia"
+		"_id": "Bras%C3%ADlia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2056,7 +2056,7 @@
 			"wikipedia": "Campinas",
 			"city": "Campinas"
 		},
-		"id": "Campinas"
+		"_id": "Campinas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2067,7 +2067,7 @@
 			"wikipedia": "S%C3%A3o_Paulo",
 			"city": "S%C3%A3o Paulo"
 		},
-		"id": "S%C3%A3o Paulo"
+		"_id": "S%C3%A3o Paulo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2078,7 +2078,7 @@
 			"wikipedia": "S%C3%A3o_Jos%C3%A9_dos_Campos",
 			"city": "S%C3%A3o Jos%C3%A9 dos Campos"
 		},
-		"id": "S%C3%A3o Jos%C3%A9 dos Campos"
+		"_id": "S%C3%A3o Jos%C3%A9 dos Campos"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2089,7 +2089,7 @@
 			"wikipedia": "Rio_de_Janeiro",
 			"city": "Rio de Janeiro"
 		},
-		"id": "Rio de Janeiro"
+		"_id": "Rio de Janeiro"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2100,7 +2100,7 @@
 			"wikipedia": "Vit%C3%B3ria,_Brazil",
 			"city": "Vit%C3%B3ria"
 		},
-		"id": "Vit%C3%B3ria"
+		"_id": "Vit%C3%B3ria"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2111,7 +2111,7 @@
 			"wikipedia": "Ilh%C3%A9us",
 			"city": "Ilh%C3%A9us"
 		},
-		"id": "Ilh%C3%A9us"
+		"_id": "Ilh%C3%A9us"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2122,7 +2122,7 @@
 			"wikipedia": "Fortaleza",
 			"city": "Fortaleza"
 		},
-		"id": "Fortaleza"
+		"_id": "Fortaleza"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2133,7 +2133,7 @@
 			"wikipedia": "Macei%C3%B3",
 			"city": "Macei%C3%B3"
 		},
-		"id": "Macei%C3%B3"
+		"_id": "Macei%C3%B3"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2144,7 +2144,7 @@
 			"wikipedia": "Recife",
 			"city": "Recife"
 		},
-		"id": "Recife"
+		"_id": "Recife"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2155,7 +2155,7 @@
 			"wikipedia": "Horta_(Azores)",
 			"city": "Horta (Azores)"
 		},
-		"id": "Horta (Azores)"
+		"_id": "Horta (Azores)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2166,7 +2166,7 @@
 			"wikipedia": "Angra_do_Hero%C3%ADsmo",
 			"city": "Angra do Hero%C3%ADsmo"
 		},
-		"id": "Angra do Hero%C3%ADsmo"
+		"_id": "Angra do Hero%C3%ADsmo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2177,7 +2177,7 @@
 			"wikipedia": "Ponta_Delgada,_S%C3%A3o_Miguel_Island",
 			"city": "Ponta Delgada"
 		},
-		"id": "Ponta Delgada"
+		"_id": "Ponta Delgada"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2188,7 +2188,7 @@
 			"wikipedia": "Praia",
 			"city": "Praia"
 		},
-		"id": "Praia"
+		"_id": "Praia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2199,7 +2199,7 @@
 			"wikipedia": "Reykjav%C3%ADk",
 			"city": "Reykjav%C3%ADk"
 		},
-		"id": "Reykjav%C3%ADk"
+		"_id": "Reykjav%C3%ADk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2210,7 +2210,7 @@
 			"wikipedia": "Dakar",
 			"city": "Dakar"
 		},
-		"id": "Dakar"
+		"_id": "Dakar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2221,7 +2221,7 @@
 			"wikipedia": "Thi%C3%A8s",
 			"city": "Thi%C3%A8s"
 		},
-		"id": "Thi%C3%A8s"
+		"_id": "Thi%C3%A8s"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2232,7 +2232,7 @@
 			"wikipedia": "Serekunda",
 			"city": "Serekunda"
 		},
-		"id": "Serekunda"
+		"_id": "Serekunda"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2243,7 +2243,7 @@
 			"wikipedia": "Brikama",
 			"city": "Brikama"
 		},
-		"id": "Brikama"
+		"_id": "Brikama"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2254,7 +2254,7 @@
 			"wikipedia": "Banjul",
 			"city": "Banjul"
 		},
-		"id": "Banjul"
+		"_id": "Banjul"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2265,7 +2265,7 @@
 			"wikipedia": "Santa_Cruz_de_Tenerife",
 			"city": "Santa Cruz de Tenerife"
 		},
-		"id": "Santa Cruz de Tenerife"
+		"_id": "Santa Cruz de Tenerife"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2276,7 +2276,7 @@
 			"wikipedia": "Nouakchott",
 			"city": "Nouakchott"
 		},
-		"id": "Nouakchott"
+		"_id": "Nouakchott"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2287,7 +2287,7 @@
 			"wikipedia": "Bissau",
 			"city": "Bissau"
 		},
-		"id": "Bissau"
+		"_id": "Bissau"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2298,7 +2298,7 @@
 			"wikipedia": "Las_Palmas_de_Gran_Canaria",
 			"city": "Las Palmas de Gran Canaria"
 		},
-		"id": "Las Palmas de Gran Canaria"
+		"_id": "Las Palmas de Gran Canaria"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2309,7 +2309,7 @@
 			"wikipedia": "Conakry",
 			"city": "Conakry"
 		},
-		"id": "Conakry"
+		"_id": "Conakry"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2320,7 +2320,7 @@
 			"wikipedia": "Freetown",
 			"city": "Freetown"
 		},
-		"id": "Freetown"
+		"_id": "Freetown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2331,7 +2331,7 @@
 			"wikipedia": "El_Aai%C3%BAn",
 			"city": "El Aai%C3%BAn"
 		},
-		"id": "El Aai%C3%BAn"
+		"_id": "El Aai%C3%BAn"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2342,7 +2342,7 @@
 			"wikipedia": "Monrovia",
 			"city": "Monrovia"
 		},
-		"id": "Monrovia"
+		"_id": "Monrovia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2353,7 +2353,7 @@
 			"wikipedia": "Lisbon",
 			"city": "Lisbon"
 		},
-		"id": "Lisbon"
+		"_id": "Lisbon"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2364,7 +2364,7 @@
 			"wikipedia": "Porto",
 			"city": "Porto"
 		},
-		"id": "Porto"
+		"_id": "Porto"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2375,7 +2375,7 @@
 			"wikipedia": "Cork_(city)",
 			"city": "Cork (city)"
 		},
-		"id": "Cork (city)"
+		"_id": "Cork (city)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2386,7 +2386,7 @@
 			"wikipedia": "Marrakech",
 			"city": "Marrakech"
 		},
-		"id": "Marrakech"
+		"_id": "Marrakech"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2397,7 +2397,7 @@
 			"wikipedia": "Bamako",
 			"city": "Bamako"
 		},
-		"id": "Bamako"
+		"_id": "Bamako"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2408,7 +2408,7 @@
 			"wikipedia": "Casablanca",
 			"city": "Casablanca"
 		},
-		"id": "Casablanca"
+		"_id": "Casablanca"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2419,7 +2419,7 @@
 			"wikipedia": "Koulikoro",
 			"city": "Koulikoro"
 		},
-		"id": "Koulikoro"
+		"_id": "Koulikoro"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2430,7 +2430,7 @@
 			"wikipedia": "Rabat",
 			"city": "Rabat"
 		},
-		"id": "Rabat"
+		"_id": "Rabat"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2441,7 +2441,7 @@
 			"wikipedia": "T%C3%B3rshavn",
 			"city": "T%C3%B3rshavn"
 		},
-		"id": "T%C3%B3rshavn"
+		"_id": "T%C3%B3rshavn"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2452,7 +2452,7 @@
 			"wikipedia": "Dublin",
 			"city": "Dublin"
 		},
-		"id": "Dublin"
+		"_id": "Dublin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2463,7 +2463,7 @@
 			"wikipedia": "Seville",
 			"city": "Seville"
 		},
-		"id": "Seville"
+		"_id": "Seville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2474,7 +2474,7 @@
 			"wikipedia": "Belfast",
 			"city": "Belfast"
 		},
-		"id": "Belfast"
+		"_id": "Belfast"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2485,7 +2485,7 @@
 			"wikipedia": "Jamestown,_Saint_Helena",
 			"city": "Jamestown"
 		},
-		"id": "Jamestown"
+		"_id": "Jamestown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2496,7 +2496,7 @@
 			"wikipedia": "Gibraltar",
 			"city": "Gibraltar"
 		},
-		"id": "Gibraltar"
+		"_id": "Gibraltar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2507,7 +2507,7 @@
 			"wikipedia": "Yamoussoukro",
 			"city": "Yamoussoukro"
 		},
-		"id": "Yamoussoukro"
+		"_id": "Yamoussoukro"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2518,7 +2518,7 @@
 			"wikipedia": "Douglas,_Isle_of_Man",
 			"city": "Douglas"
 		},
-		"id": "Douglas"
+		"_id": "Douglas"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2529,7 +2529,7 @@
 			"wikipedia": "M%C3%A1laga",
 			"city": "M%C3%A1laga"
 		},
-		"id": "M%C3%A1laga"
+		"_id": "M%C3%A1laga"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2540,7 +2540,7 @@
 			"wikipedia": "Glasgow",
 			"city": "Glasgow"
 		},
-		"id": "Glasgow"
+		"_id": "Glasgow"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2548,10 +2548,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Abidjan",
-			"city": "Abidjan"
+			"wikipedia": "Ab_idjan",
+			"city": "Ab_idjan"
 		},
-		"id": "Abidjan"
+		"_id": "Ab_idjan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2559,10 +2559,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Madrid",
-			"city": "Madrid"
+			"wikipedia": "Madr_id",
+			"city": "Madr_id"
 		},
-		"id": "Madrid"
+		"_id": "Madr_id"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2573,7 +2573,7 @@
 			"wikipedia": "Cardiff",
 			"city": "Cardiff"
 		},
-		"id": "Cardiff"
+		"_id": "Cardiff"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2584,7 +2584,7 @@
 			"wikipedia": "Edinburgh",
 			"city": "Edinburgh"
 		},
-		"id": "Edinburgh"
+		"_id": "Edinburgh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2595,7 +2595,7 @@
 			"wikipedia": "Timbuktu",
 			"city": "Timbuktu"
 		},
-		"id": "Timbuktu"
+		"_id": "Timbuktu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2606,7 +2606,7 @@
 			"wikipedia": "Liverpool",
 			"city": "Liverpool"
 		},
-		"id": "Liverpool"
+		"_id": "Liverpool"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2617,7 +2617,7 @@
 			"wikipedia": "Bilbao",
 			"city": "Bilbao"
 		},
-		"id": "Bilbao"
+		"_id": "Bilbao"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2628,7 +2628,7 @@
 			"wikipedia": "Manchester",
 			"city": "Manchester"
 		},
-		"id": "Manchester"
+		"_id": "Manchester"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2639,7 +2639,7 @@
 			"wikipedia": "Aberdeen",
 			"city": "Aberdeen"
 		},
-		"id": "Aberdeen"
+		"_id": "Aberdeen"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2650,7 +2650,7 @@
 			"wikipedia": "Birmingham",
 			"city": "Birmingham"
 		},
-		"id": "Birmingham"
+		"_id": "Birmingham"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2661,7 +2661,7 @@
 			"wikipedia": "Leeds",
 			"city": "Leeds"
 		},
-		"id": "Leeds"
+		"_id": "Leeds"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2672,7 +2672,7 @@
 			"wikipedia": "Nantes",
 			"city": "Nantes"
 		},
-		"id": "Nantes"
+		"_id": "Nantes"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2683,7 +2683,7 @@
 			"wikipedia": "Ouagadougou",
 			"city": "Ouagadougou"
 		},
-		"id": "Ouagadougou"
+		"_id": "Ouagadougou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2694,7 +2694,7 @@
 			"wikipedia": "Tamale,_Ghana",
 			"city": "Tamale"
 		},
-		"id": "Tamale"
+		"_id": "Tamale"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2705,7 +2705,7 @@
 			"wikipedia": "Valencia,_Spain",
 			"city": "Valencia"
 		},
-		"id": "Valencia"
+		"_id": "Valencia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2716,7 +2716,7 @@
 			"wikipedia": "Accra",
 			"city": "Accra"
 		},
-		"id": "Accra"
+		"_id": "Accra"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2727,7 +2727,7 @@
 			"wikipedia": "London",
 			"city": "London"
 		},
-		"id": "London"
+		"_id": "London"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2738,7 +2738,7 @@
 			"wikipedia": "Greenwich",
 			"city": "Greenwich"
 		},
-		"id": "Greenwich"
+		"_id": "Greenwich"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2749,7 +2749,7 @@
 			"wikipedia": "Lom%C3%A9",
 			"city": "Lom%C3%A9"
 		},
-		"id": "Lom%C3%A9"
+		"_id": "Lom%C3%A9"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2760,7 +2760,7 @@
 			"wikipedia": "Toulouse",
 			"city": "Toulouse"
 		},
-		"id": "Toulouse"
+		"_id": "Toulouse"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2771,7 +2771,7 @@
 			"wikipedia": "Andorra_la_Vella",
 			"city": "Andorra la Vella"
 		},
-		"id": "Andorra la Vella"
+		"_id": "Andorra la Vella"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2782,7 +2782,7 @@
 			"wikipedia": "Ibiza",
 			"city": "Ibiza"
 		},
-		"id": "Ibiza"
+		"_id": "Ibiza"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2793,7 +2793,7 @@
 			"wikipedia": "Niamey",
 			"city": "Niamey"
 		},
-		"id": "Niamey"
+		"_id": "Niamey"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2804,7 +2804,7 @@
 			"wikipedia": "Barcelona",
 			"city": "Barcelona"
 		},
-		"id": "Barcelona"
+		"_id": "Barcelona"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2815,7 +2815,7 @@
 			"wikipedia": "Paris",
 			"city": "Paris"
 		},
-		"id": "Paris"
+		"_id": "Paris"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2826,7 +2826,7 @@
 			"wikipedia": "Cotonou",
 			"city": "Cotonou"
 		},
-		"id": "Cotonou"
+		"_id": "Cotonou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2837,7 +2837,7 @@
 			"wikipedia": "Porto-Novo",
 			"city": "Porto-Novo"
 		},
-		"id": "Porto-Novo"
+		"_id": "Porto-Novo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2848,7 +2848,7 @@
 			"wikipedia": "Palma,_Majorca",
 			"city": "Palma"
 		},
-		"id": "Palma"
+		"_id": "Palma"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2859,7 +2859,7 @@
 			"wikipedia": "Algiers",
 			"city": "Algiers"
 		},
-		"id": "Algiers"
+		"_id": "Algiers"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2870,7 +2870,7 @@
 			"wikipedia": "Lagos",
 			"city": "Lagos"
 		},
-		"id": "Lagos"
+		"_id": "Lagos"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2881,7 +2881,7 @@
 			"wikipedia": "Ibadan",
 			"city": "Ibadan"
 		},
-		"id": "Ibadan"
+		"_id": "Ibadan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2892,7 +2892,7 @@
 			"wikipedia": "The_Hague",
 			"city": "The Hague"
 		},
-		"id": "The Hague"
+		"_id": "The Hague"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2903,7 +2903,7 @@
 			"wikipedia": "Brussels",
 			"city": "Brussels"
 		},
-		"id": "Brussels"
+		"_id": "Brussels"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2914,7 +2914,7 @@
 			"wikipedia": "Antwerp",
 			"city": "Antwerp"
 		},
-		"id": "Antwerp"
+		"_id": "Antwerp"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2925,7 +2925,7 @@
 			"wikipedia": "Rotterdam",
 			"city": "Rotterdam"
 		},
-		"id": "Rotterdam"
+		"_id": "Rotterdam"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2936,7 +2936,7 @@
 			"wikipedia": "Lyon",
 			"city": "Lyon"
 		},
-		"id": "Lyon"
+		"_id": "Lyon"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2947,7 +2947,7 @@
 			"wikipedia": "Amsterdam",
 			"city": "Amsterdam"
 		},
-		"id": "Amsterdam"
+		"_id": "Amsterdam"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2958,7 +2958,7 @@
 			"wikipedia": "Marseille",
 			"city": "Marseille"
 		},
-		"id": "Marseille"
+		"_id": "Marseille"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2969,7 +2969,7 @@
 			"wikipedia": "Bergen",
 			"city": "Bergen"
 		},
-		"id": "Bergen"
+		"_id": "Bergen"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2980,7 +2980,7 @@
 			"wikipedia": "Luxembourg_(city)",
 			"city": "Luxembourg (city)"
 		},
-		"id": "Luxembourg (city)"
+		"_id": "Luxembourg (city)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -2991,7 +2991,7 @@
 			"wikipedia": "Geneva",
 			"city": "Geneva"
 		},
-		"id": "Geneva"
+		"_id": "Geneva"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3002,7 +3002,7 @@
 			"wikipedia": "S%C3%A3o_Tom%C3%A9",
 			"city": "S%C3%A3o Tom%C3%A9"
 		},
-		"id": "S%C3%A3o Tom%C3%A9"
+		"_id": "S%C3%A3o Tom%C3%A9"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3013,7 +3013,7 @@
 			"wikipedia": "D%C3%BCsseldorf",
 			"city": "D%C3%BCsseldorf"
 		},
-		"id": "D%C3%BCsseldorf"
+		"_id": "D%C3%BCsseldorf"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3024,7 +3024,7 @@
 			"wikipedia": "Cologne",
 			"city": "Cologne"
 		},
-		"id": "Cologne"
+		"_id": "Cologne"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3035,7 +3035,7 @@
 			"wikipedia": "Cannes",
 			"city": "Cannes"
 		},
-		"id": "Cannes"
+		"_id": "Cannes"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3046,7 +3046,7 @@
 			"wikipedia": "Nice",
 			"city": "Nice"
 		},
-		"id": "Nice"
+		"_id": "Nice"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3057,7 +3057,7 @@
 			"wikipedia": "Monaco",
 			"city": "Monaco"
 		},
-		"id": "Monaco"
+		"_id": "Monaco"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3068,7 +3068,7 @@
 			"wikipedia": "Bern",
 			"city": "Bern"
 		},
-		"id": "Bern"
+		"_id": "Bern"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3079,7 +3079,7 @@
 			"wikipedia": "Abuja",
 			"city": "Abuja"
 		},
-		"id": "Abuja"
+		"_id": "Abuja"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3090,7 +3090,7 @@
 			"wikipedia": "Enugu",
 			"city": "Enugu"
 		},
-		"id": "Enugu"
+		"_id": "Enugu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3101,7 +3101,7 @@
 			"wikipedia": "Turin",
 			"city": "Turin"
 		},
-		"id": "Turin"
+		"_id": "Turin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3112,7 +3112,7 @@
 			"wikipedia": "Strasbourg",
 			"city": "Strasbourg"
 		},
-		"id": "Strasbourg"
+		"_id": "Strasbourg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3123,7 +3123,7 @@
 			"wikipedia": "Kano",
 			"city": "Kano"
 		},
-		"id": "Kano"
+		"_id": "Kano"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3134,7 +3134,7 @@
 			"wikipedia": "Z%C3%BCrich",
 			"city": "Z%C3%BCrich"
 		},
-		"id": "Z%C3%BCrich"
+		"_id": "Z%C3%BCrich"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3145,7 +3145,7 @@
 			"wikipedia": "Frankfurt",
 			"city": "Frankfurt"
 		},
-		"id": "Frankfurt"
+		"_id": "Frankfurt"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3156,7 +3156,7 @@
 			"wikipedia": "Malabo",
 			"city": "Malabo"
 		},
-		"id": "Malabo"
+		"_id": "Malabo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3167,7 +3167,7 @@
 			"wikipedia": "Stuttgart",
 			"city": "Stuttgart"
 		},
-		"id": "Stuttgart"
+		"_id": "Stuttgart"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3178,7 +3178,7 @@
 			"wikipedia": "Milan",
 			"city": "Milan"
 		},
-		"id": "Milan"
+		"_id": "Milan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3189,7 +3189,7 @@
 			"wikipedia": "Libreville",
 			"city": "Libreville"
 		},
-		"id": "Libreville"
+		"_id": "Libreville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3200,7 +3200,7 @@
 			"wikipedia": "Vaduz",
 			"city": "Vaduz"
 		},
-		"id": "Vaduz"
+		"_id": "Vaduz"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3211,7 +3211,7 @@
 			"wikipedia": "Douala",
 			"city": "Douala"
 		},
-		"id": "Douala"
+		"_id": "Douala"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3222,7 +3222,7 @@
 			"wikipedia": "Hanover",
 			"city": "Hanover"
 		},
-		"id": "Hanover"
+		"_id": "Hanover"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3233,7 +3233,7 @@
 			"wikipedia": "Hamburg",
 			"city": "Hamburg"
 		},
-		"id": "Hamburg"
+		"_id": "Hamburg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3244,7 +3244,7 @@
 			"wikipedia": "Tunis",
 			"city": "Tunis"
 		},
-		"id": "Tunis"
+		"_id": "Tunis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3255,7 +3255,7 @@
 			"wikipedia": "Aarhus",
 			"city": "Aarhus"
 		},
-		"id": "Aarhus"
+		"_id": "Aarhus"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3266,7 +3266,7 @@
 			"wikipedia": "Oslo",
 			"city": "Oslo"
 		},
-		"id": "Oslo"
+		"_id": "Oslo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3277,7 +3277,7 @@
 			"wikipedia": "Innsbruck",
 			"city": "Innsbruck"
 		},
-		"id": "Innsbruck"
+		"_id": "Innsbruck"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3288,7 +3288,7 @@
 			"wikipedia": "Yaound%C3%A9",
 			"city": "Yaound%C3%A9"
 		},
-		"id": "Yaound%C3%A9"
+		"_id": "Yaound%C3%A9"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3299,7 +3299,7 @@
 			"wikipedia": "Munich",
 			"city": "Munich"
 		},
-		"id": "Munich"
+		"_id": "Munich"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3310,7 +3310,7 @@
 			"wikipedia": "Gothenburg",
 			"city": "Gothenburg"
 		},
-		"id": "Gothenburg"
+		"_id": "Gothenburg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3321,7 +3321,7 @@
 			"wikipedia": "Leipzig",
 			"city": "Leipzig"
 		},
-		"id": "Leipzig"
+		"_id": "Leipzig"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3332,7 +3332,7 @@
 			"wikipedia": "City_of_San_Marino",
 			"city": "City of San Marino"
 		},
-		"id": "City of San Marino"
+		"_id": "City of San Marino"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3343,7 +3343,7 @@
 			"wikipedia": "Vatican_City",
 			"city": "Vatican City"
 		},
-		"id": "Vatican City"
+		"_id": "Vatican City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3354,7 +3354,7 @@
 			"wikipedia": "Rome",
 			"city": "Rome"
 		},
-		"id": "Rome"
+		"_id": "Rome"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3365,7 +3365,7 @@
 			"wikipedia": "Copenhagen",
 			"city": "Copenhagen"
 		},
-		"id": "Copenhagen"
+		"_id": "Copenhagen"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3376,7 +3376,7 @@
 			"wikipedia": "Malm%C3%B6",
 			"city": "Malm%C3%B6"
 		},
-		"id": "Malm%C3%B6"
+		"_id": "Malm%C3%B6"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3387,7 +3387,7 @@
 			"wikipedia": "Salzburg",
 			"city": "Salzburg"
 		},
-		"id": "Salzburg"
+		"_id": "Salzburg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3398,7 +3398,7 @@
 			"wikipedia": "Tripoli",
 			"city": "Tripoli"
 		},
-		"id": "Tripoli"
+		"_id": "Tripoli"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3409,7 +3409,7 @@
 			"wikipedia": "Luanda",
 			"city": "Luanda"
 		},
-		"id": "Luanda"
+		"_id": "Luanda"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3420,7 +3420,7 @@
 			"wikipedia": "Berlin",
 			"city": "Berlin"
 		},
-		"id": "Berlin"
+		"_id": "Berlin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3431,7 +3431,7 @@
 			"wikipedia": "Dresden",
 			"city": "Dresden"
 		},
-		"id": "Dresden"
+		"_id": "Dresden"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3442,7 +3442,7 @@
 			"wikipedia": "Naples",
 			"city": "Naples"
 		},
-		"id": "Naples"
+		"_id": "Naples"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3453,7 +3453,7 @@
 			"wikipedia": "Linz",
 			"city": "Linz"
 		},
-		"id": "Linz"
+		"_id": "Linz"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3464,7 +3464,7 @@
 			"wikipedia": "Prague",
 			"city": "Prague"
 		},
-		"id": "Prague"
+		"_id": "Prague"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3475,7 +3475,7 @@
 			"wikipedia": "Sabha,_Libya",
 			"city": "Sabha"
 		},
-		"id": "Sabha"
+		"_id": "Sabha"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3486,7 +3486,7 @@
 			"wikipedia": "Birkirkara",
 			"city": "Birkirkara"
 		},
-		"id": "Birkirkara"
+		"_id": "Birkirkara"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3497,7 +3497,7 @@
 			"wikipedia": "Ljubljana",
 			"city": "Ljubljana"
 		},
-		"id": "Ljubljana"
+		"_id": "Ljubljana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3508,7 +3508,7 @@
 			"wikipedia": "Valletta",
 			"city": "Valletta"
 		},
-		"id": "Valletta"
+		"_id": "Valletta"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3519,7 +3519,7 @@
 			"wikipedia": "N%27Djamena",
 			"city": "N%27Djamena"
 		},
-		"id": "N%27Djamena"
+		"_id": "N%27Djamena"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3530,7 +3530,7 @@
 			"wikipedia": "Brazzaville",
 			"city": "Brazzaville"
 		},
-		"id": "Brazzaville"
+		"_id": "Brazzaville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3541,7 +3541,7 @@
 			"wikipedia": "Kinshasa",
 			"city": "Kinshasa"
 		},
-		"id": "Kinshasa"
+		"_id": "Kinshasa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3552,7 +3552,7 @@
 			"wikipedia": "Graz",
 			"city": "Graz"
 		},
-		"id": "Graz"
+		"_id": "Graz"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3563,7 +3563,7 @@
 			"wikipedia": "Longyearbyen",
 			"city": "Longyearbyen"
 		},
-		"id": "Longyearbyen"
+		"_id": "Longyearbyen"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3574,7 +3574,7 @@
 			"wikipedia": "Zagreb",
 			"city": "Zagreb"
 		},
-		"id": "Zagreb"
+		"_id": "Zagreb"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3585,7 +3585,7 @@
 			"wikipedia": "Vienna",
 			"city": "Vienna"
 		},
-		"id": "Vienna"
+		"_id": "Vienna"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3596,7 +3596,7 @@
 			"wikipedia": "Split_(city)",
 			"city": "Split (city)"
 		},
-		"id": "Split (city)"
+		"_id": "Split (city)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3607,7 +3607,7 @@
 			"wikipedia": "Bratislava",
 			"city": "Bratislava"
 		},
-		"id": "Bratislava"
+		"_id": "Bratislava"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3618,7 +3618,7 @@
 			"wikipedia": "Stockholm",
 			"city": "Stockholm"
 		},
-		"id": "Stockholm"
+		"_id": "Stockholm"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3629,7 +3629,7 @@
 			"wikipedia": "Sarajevo",
 			"city": "Sarajevo"
 		},
-		"id": "Sarajevo"
+		"_id": "Sarajevo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3640,7 +3640,7 @@
 			"wikipedia": "Cape_Town",
 			"city": "Cape Town"
 		},
-		"id": "Cape Town"
+		"_id": "Cape Town"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3651,7 +3651,7 @@
 			"wikipedia": "Bangui",
 			"city": "Bangui"
 		},
-		"id": "Bangui"
+		"_id": "Bangui"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3662,7 +3662,7 @@
 			"wikipedia": "Gda%C5%84sk",
 			"city": "Gda%C5%84sk"
 		},
-		"id": "Gda%C5%84sk"
+		"_id": "Gda%C5%84sk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3673,7 +3673,7 @@
 			"wikipedia": "Budapest",
 			"city": "Budapest"
 		},
-		"id": "Budapest"
+		"_id": "Budapest"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3684,7 +3684,7 @@
 			"wikipedia": "Podgorica",
 			"city": "Podgorica"
 		},
-		"id": "Podgorica"
+		"_id": "Podgorica"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3695,7 +3695,7 @@
 			"wikipedia": "Tirana",
 			"city": "Tirana"
 		},
-		"id": "Tirana"
+		"_id": "Tirana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3706,7 +3706,7 @@
 			"wikipedia": "Krak%C3%B3w",
 			"city": "Krak%C3%B3w"
 		},
-		"id": "Krak%C3%B3w"
+		"_id": "Krak%C3%B3w"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3717,7 +3717,7 @@
 			"wikipedia": "Belgrade",
 			"city": "Belgrade"
 		},
-		"id": "Belgrade"
+		"_id": "Belgrade"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3728,7 +3728,7 @@
 			"wikipedia": "Kaliningrad",
 			"city": "Kaliningrad"
 		},
-		"id": "Kaliningrad"
+		"_id": "Kaliningrad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3739,7 +3739,7 @@
 			"wikipedia": "Warsaw",
 			"city": "Warsaw"
 		},
-		"id": "Warsaw"
+		"_id": "Warsaw"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3750,7 +3750,7 @@
 			"wikipedia": "Pristina",
 			"city": "Pristina"
 		},
-		"id": "Pristina"
+		"_id": "Pristina"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3761,7 +3761,7 @@
 			"wikipedia": "Skopje",
 			"city": "Skopje"
 		},
-		"id": "Skopje"
+		"_id": "Skopje"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3772,7 +3772,7 @@
 			"wikipedia": "Thessaloniki",
 			"city": "Thessaloniki"
 		},
-		"id": "Thessaloniki"
+		"_id": "Thessaloniki"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3783,7 +3783,7 @@
 			"wikipedia": "Sofia",
 			"city": "Sofia"
 		},
-		"id": "Sofia"
+		"_id": "Sofia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3794,7 +3794,7 @@
 			"wikipedia": "Athens",
 			"city": "Athens"
 		},
-		"id": "Athens"
+		"_id": "Athens"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3805,7 +3805,7 @@
 			"wikipedia": "Tampere",
 			"city": "Tampere"
 		},
-		"id": "Tampere"
+		"_id": "Tampere"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3816,7 +3816,7 @@
 			"wikipedia": "Lviv",
 			"city": "Lviv"
 		},
-		"id": "Lviv"
+		"_id": "Lviv"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3827,7 +3827,7 @@
 			"wikipedia": "Riga",
 			"city": "Riga"
 		},
-		"id": "Riga"
+		"_id": "Riga"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3838,7 +3838,7 @@
 			"wikipedia": "Espoo",
 			"city": "Espoo"
 		},
-		"id": "Espoo"
+		"_id": "Espoo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3849,7 +3849,7 @@
 			"wikipedia": "Tallinn",
 			"city": "Tallinn"
 		},
-		"id": "Tallinn"
+		"_id": "Tallinn"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3860,7 +3860,7 @@
 			"wikipedia": "Helsinki",
 			"city": "Helsinki"
 		},
-		"id": "Helsinki"
+		"_id": "Helsinki"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3871,7 +3871,7 @@
 			"wikipedia": "Vilnius",
 			"city": "Vilnius"
 		},
-		"id": "Vilnius"
+		"_id": "Vilnius"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3882,7 +3882,7 @@
 			"wikipedia": "Port_Elizabeth",
 			"city": "Port Elizabeth"
 		},
-		"id": "Port Elizabeth"
+		"_id": "Port Elizabeth"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3893,7 +3893,7 @@
 			"wikipedia": "Livingstone,_Zambia",
 			"city": "Livingstone"
 		},
-		"id": "Livingstone"
+		"_id": "Livingstone"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3904,7 +3904,7 @@
 			"wikipedia": "Gaborone",
 			"city": "Gaborone"
 		},
-		"id": "Gaborone"
+		"_id": "Gaborone"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3915,7 +3915,7 @@
 			"wikipedia": "Bucharest",
 			"city": "Bucharest"
 		},
-		"id": "Bucharest"
+		"_id": "Bucharest"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3926,7 +3926,7 @@
 			"wikipedia": "Bloemfontein",
 			"city": "Bloemfontein"
 		},
-		"id": "Bloemfontein"
+		"_id": "Bloemfontein"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3937,7 +3937,7 @@
 			"wikipedia": "Tartu",
 			"city": "Tartu"
 		},
-		"id": "Tartu"
+		"_id": "Tartu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3948,7 +3948,7 @@
 			"wikipedia": "%C4%B0zmir",
 			"city": "%C4%B0zmir"
 		},
-		"id": "%C4%B0zmir"
+		"_id": "%C4%B0zmir"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3959,7 +3959,7 @@
 			"wikipedia": "Lubumbashi",
 			"city": "Lubumbashi"
 		},
-		"id": "Lubumbashi"
+		"_id": "Lubumbashi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3970,7 +3970,7 @@
 			"wikipedia": "Maseru",
 			"city": "Maseru"
 		},
-		"id": "Maseru"
+		"_id": "Maseru"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3981,7 +3981,7 @@
 			"wikipedia": "Francistown",
 			"city": "Francistown"
 		},
-		"id": "Francistown"
+		"_id": "Francistown"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -3992,7 +3992,7 @@
 			"wikipedia": "Minsk",
 			"city": "Minsk"
 		},
-		"id": "Minsk"
+		"_id": "Minsk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4003,7 +4003,7 @@
 			"wikipedia": "Johannesburg",
 			"city": "Johannesburg"
 		},
-		"id": "Johannesburg"
+		"_id": "Johannesburg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4014,7 +4014,7 @@
 			"wikipedia": "Pretoria",
 			"city": "Pretoria"
 		},
-		"id": "Pretoria"
+		"_id": "Pretoria"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4025,7 +4025,7 @@
 			"wikipedia": "Lusaka",
 			"city": "Lusaka"
 		},
-		"id": "Lusaka"
+		"_id": "Lusaka"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4036,7 +4036,7 @@
 			"wikipedia": "Ndola",
 			"city": "Ndola"
 		},
-		"id": "Ndola"
+		"_id": "Ndola"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4047,7 +4047,7 @@
 			"wikipedia": "Bulawayo",
 			"city": "Bulawayo"
 		},
-		"id": "Bulawayo"
+		"_id": "Bulawayo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4058,7 +4058,7 @@
 			"wikipedia": "Chi%C5%9Fin%C4%83u",
 			"city": "Chi%C5%9Fin%C4%83u"
 		},
-		"id": "Chi%C5%9Fin%C4%83u"
+		"_id": "Chi%C5%9Fin%C4%83u"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4069,7 +4069,7 @@
 			"wikipedia": "Istanbul",
 			"city": "Istanbul"
 		},
-		"id": "Istanbul"
+		"_id": "Istanbul"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4080,7 +4080,7 @@
 			"wikipedia": "Bursa",
 			"city": "Bursa"
 		},
-		"id": "Bursa"
+		"_id": "Bursa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4091,7 +4091,7 @@
 			"wikipedia": "Bujumbura",
 			"city": "Bujumbura"
 		},
-		"id": "Bujumbura"
+		"_id": "Bujumbura"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4102,7 +4102,7 @@
 			"wikipedia": "Tiraspol",
 			"city": "Tiraspol"
 		},
-		"id": "Tiraspol"
+		"_id": "Tiraspol"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4113,7 +4113,7 @@
 			"wikipedia": "Alexandria",
 			"city": "Alexandria"
 		},
-		"id": "Alexandria"
+		"_id": "Alexandria"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4124,7 +4124,7 @@
 			"wikipedia": "Kigali",
 			"city": "Kigali"
 		},
-		"id": "Kigali"
+		"_id": "Kigali"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4135,7 +4135,7 @@
 			"wikipedia": "Saint_Petersburg",
 			"city": "Saint Petersburg"
 		},
-		"id": "Saint Petersburg"
+		"_id": "Saint Petersburg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4146,7 +4146,7 @@
 			"wikipedia": "Kiev",
 			"city": "Kiev"
 		},
-		"id": "Kiev"
+		"_id": "Kiev"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4157,7 +4157,7 @@
 			"wikipedia": "Odessa",
 			"city": "Odessa"
 		},
-		"id": "Odessa"
+		"_id": "Odessa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4168,7 +4168,7 @@
 			"wikipedia": "Harare",
 			"city": "Harare"
 		},
-		"id": "Harare"
+		"_id": "Harare"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4179,7 +4179,7 @@
 			"wikipedia": "Durban",
 			"city": "Durban"
 		},
-		"id": "Durban"
+		"_id": "Durban"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4190,7 +4190,7 @@
 			"wikipedia": "Mbabane",
 			"city": "Mbabane"
 		},
-		"id": "Mbabane"
+		"_id": "Mbabane"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4201,7 +4201,7 @@
 			"wikipedia": "Lobamba",
 			"city": "Lobamba"
 		},
-		"id": "Lobamba"
+		"_id": "Lobamba"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4212,7 +4212,7 @@
 			"wikipedia": "Cairo",
 			"city": "Cairo"
 		},
-		"id": "Cairo"
+		"_id": "Cairo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4223,7 +4223,7 @@
 			"wikipedia": "Manzini,_Swaziland",
 			"city": "Manzini"
 		},
-		"id": "Manzini"
+		"_id": "Manzini"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4231,10 +4231,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Port_Said",
-			"city": "Port Said"
+			"wikipedia": "Port_Sa_id",
+			"city": "Port Sa_id"
 		},
-		"id": "Port Said"
+		"_id": "Port Sa_id"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4245,7 +4245,7 @@
 			"wikipedia": "Konya",
 			"city": "Konya"
 		},
-		"id": "Konya"
+		"_id": "Konya"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4256,7 +4256,7 @@
 			"wikipedia": "Omdurman",
 			"city": "Omdurman"
 		},
-		"id": "Omdurman"
+		"_id": "Omdurman"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4267,7 +4267,7 @@
 			"wikipedia": "Khartoum",
 			"city": "Khartoum"
 		},
-		"id": "Khartoum"
+		"_id": "Khartoum"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4278,7 +4278,7 @@
 			"wikipedia": "Suez",
 			"city": "Suez"
 		},
-		"id": "Suez"
+		"_id": "Suez"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4289,7 +4289,7 @@
 			"wikipedia": "Maputo",
 			"city": "Maputo"
 		},
-		"id": "Maputo"
+		"_id": "Maputo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4300,7 +4300,7 @@
 			"wikipedia": "Luxor",
 			"city": "Luxor"
 		},
-		"id": "Luxor"
+		"_id": "Luxor"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4311,7 +4311,7 @@
 			"wikipedia": "Ankara",
 			"city": "Ankara"
 		},
-		"id": "Ankara"
+		"_id": "Ankara"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4322,7 +4322,7 @@
 			"wikipedia": "Mwanza",
 			"city": "Mwanza"
 		},
-		"id": "Mwanza"
+		"_id": "Mwanza"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4333,7 +4333,7 @@
 			"wikipedia": "Murmansk",
 			"city": "Murmansk"
 		},
-		"id": "Murmansk"
+		"_id": "Murmansk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4344,7 +4344,7 @@
 			"wikipedia": "Nicosia",
 			"city": "Nicosia"
 		},
-		"id": "Nicosia"
+		"_id": "Nicosia"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4355,7 +4355,7 @@
 			"wikipedia": "Lilongwe",
 			"city": "Lilongwe"
 		},
-		"id": "Lilongwe"
+		"_id": "Lilongwe"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4366,7 +4366,7 @@
 			"wikipedia": "Simferopol",
 			"city": "Simferopol"
 		},
-		"id": "Simferopol"
+		"_id": "Simferopol"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4377,7 +4377,7 @@
 			"wikipedia": "Gaza",
 			"city": "Gaza"
 		},
-		"id": "Gaza"
+		"_id": "Gaza"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4388,7 +4388,7 @@
 			"wikipedia": "Mersin",
 			"city": "Mersin"
 		},
-		"id": "Mersin"
+		"_id": "Mersin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4399,7 +4399,7 @@
 			"wikipedia": "Tel_Aviv",
 			"city": "Tel Aviv"
 		},
-		"id": "Tel Aviv"
+		"_id": "Tel Aviv"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4410,7 +4410,7 @@
 			"wikipedia": "Blantyre,_Malawi",
 			"city": "Blantyre"
 		},
-		"id": "Blantyre"
+		"_id": "Blantyre"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4421,7 +4421,7 @@
 			"wikipedia": "Jerusalem",
 			"city": "Jerusalem"
 		},
-		"id": "Jerusalem"
+		"_id": "Jerusalem"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4432,7 +4432,7 @@
 			"wikipedia": "Adana",
 			"city": "Adana"
 		},
-		"id": "Adana"
+		"_id": "Adana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4443,7 +4443,7 @@
 			"wikipedia": "Beirut",
 			"city": "Beirut"
 		},
-		"id": "Beirut"
+		"_id": "Beirut"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4454,7 +4454,7 @@
 			"wikipedia": "Dodoma",
 			"city": "Dodoma"
 		},
-		"id": "Dodoma"
+		"_id": "Dodoma"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4465,7 +4465,7 @@
 			"wikipedia": "Amman",
 			"city": "Amman"
 		},
-		"id": "Amman"
+		"_id": "Amman"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4476,7 +4476,7 @@
 			"wikipedia": "Damascus",
 			"city": "Damascus"
 		},
-		"id": "Damascus"
+		"_id": "Damascus"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4487,7 +4487,7 @@
 			"wikipedia": "Kharkiv",
 			"city": "Kharkiv"
 		},
-		"id": "Kharkiv"
+		"_id": "Kharkiv"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4498,7 +4498,7 @@
 			"wikipedia": "Nairobi",
 			"city": "Nairobi"
 		},
-		"id": "Nairobi"
+		"_id": "Nairobi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4509,7 +4509,7 @@
 			"wikipedia": "Gaziantep",
 			"city": "Gaziantep"
 		},
-		"id": "Gaziantep"
+		"_id": "Gaziantep"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4520,7 +4520,7 @@
 			"wikipedia": "Moscow",
 			"city": "Moscow"
 		},
-		"id": "Moscow"
+		"_id": "Moscow"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4531,7 +4531,7 @@
 			"wikipedia": "Addis_Ababa",
 			"city": "Addis Ababa"
 		},
-		"id": "Addis Ababa"
+		"_id": "Addis Ababa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4542,7 +4542,7 @@
 			"wikipedia": "Asmara",
 			"city": "Asmara"
 		},
-		"id": "Asmara"
+		"_id": "Asmara"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4553,7 +4553,7 @@
 			"wikipedia": "Jeddah",
 			"city": "Jeddah"
 		},
-		"id": "Jeddah"
+		"_id": "Jeddah"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4564,7 +4564,7 @@
 			"wikipedia": "Zanzibar_City",
 			"city": "Zanzibar City"
 		},
-		"id": "Zanzibar City"
+		"_id": "Zanzibar City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4575,7 +4575,7 @@
 			"wikipedia": "Dar_es_Salaam",
 			"city": "Dar es Salaam"
 		},
-		"id": "Dar es Salaam"
+		"_id": "Dar es Salaam"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4586,7 +4586,7 @@
 			"wikipedia": "Medina",
 			"city": "Medina"
 		},
-		"id": "Medina"
+		"_id": "Medina"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4597,7 +4597,7 @@
 			"wikipedia": "Mecca",
 			"city": "Mecca"
 		},
-		"id": "Mecca"
+		"_id": "Mecca"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4608,7 +4608,7 @@
 			"wikipedia": "Sukhumi",
 			"city": "Sukhumi"
 		},
-		"id": "Sukhumi"
+		"_id": "Sukhumi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4619,7 +4619,7 @@
 			"wikipedia": "Djibouti_(city)",
 			"city": "Djibouti (city)"
 		},
-		"id": "Djibouti (city)"
+		"_id": "Djibouti (city)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4630,7 +4630,7 @@
 			"wikipedia": "Moroni,_Comoros",
 			"city": "Moroni"
 		},
-		"id": "Moroni"
+		"_id": "Moroni"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4641,7 +4641,7 @@
 			"wikipedia": "Tskhinvali",
 			"city": "Tskhinvali"
 		},
-		"id": "Tskhinvali"
+		"_id": "Tskhinvali"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4652,7 +4652,7 @@
 			"wikipedia": "Sana%27a",
 			"city": "Sana%27a"
 		},
-		"id": "Sana%27a"
+		"_id": "Sana%27a"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4663,7 +4663,7 @@
 			"wikipedia": "Baghdad",
 			"city": "Baghdad"
 		},
-		"id": "Baghdad"
+		"_id": "Baghdad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4674,7 +4674,7 @@
 			"wikipedia": "Nizhny_Novgorod",
 			"city": "Nizhny Novgorod"
 		},
-		"id": "Nizhny Novgorod"
+		"_id": "Nizhny Novgorod"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4685,7 +4685,7 @@
 			"wikipedia": "Hargeisa",
 			"city": "Hargeisa"
 		},
-		"id": "Hargeisa"
+		"_id": "Hargeisa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4696,7 +4696,7 @@
 			"wikipedia": "Arbil",
 			"city": "Arbil"
 		},
-		"id": "Arbil"
+		"_id": "Arbil"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4707,7 +4707,7 @@
 			"wikipedia": "Yerevan",
 			"city": "Yerevan"
 		},
-		"id": "Yerevan"
+		"_id": "Yerevan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4718,7 +4718,7 @@
 			"wikipedia": "Tbilisi",
 			"city": "Tbilisi"
 		},
-		"id": "Tbilisi"
+		"_id": "Tbilisi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4729,7 +4729,7 @@
 			"wikipedia": "Mamoudzou",
 			"city": "Mamoudzou"
 		},
-		"id": "Mamoudzou"
+		"_id": "Mamoudzou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4740,7 +4740,7 @@
 			"wikipedia": "Mogadishu",
 			"city": "Mogadishu"
 		},
-		"id": "Mogadishu"
+		"_id": "Mogadishu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4751,7 +4751,7 @@
 			"wikipedia": "Tabriz",
 			"city": "Tabriz"
 		},
-		"id": "Tabriz"
+		"_id": "Tabriz"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4762,7 +4762,7 @@
 			"wikipedia": "Riyadh",
 			"city": "Riyadh"
 		},
-		"id": "Riyadh"
+		"_id": "Riyadh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4773,7 +4773,7 @@
 			"wikipedia": "Stepanakert",
 			"city": "Stepanakert"
 		},
-		"id": "Stepanakert"
+		"_id": "Stepanakert"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4784,7 +4784,7 @@
 			"wikipedia": "Antananarivo",
 			"city": "Antananarivo"
 		},
-		"id": "Antananarivo"
+		"_id": "Antananarivo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4795,7 +4795,7 @@
 			"wikipedia": "Basra",
 			"city": "Basra"
 		},
-		"id": "Basra"
+		"_id": "Basra"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4806,7 +4806,7 @@
 			"wikipedia": "Kuwait_City",
 			"city": "Kuwait City"
 		},
-		"id": "Kuwait City"
+		"_id": "Kuwait City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4817,7 +4817,7 @@
 			"wikipedia": "Baku",
 			"city": "Baku"
 		},
-		"id": "Baku"
+		"_id": "Baku"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4828,7 +4828,7 @@
 			"wikipedia": "Dammam",
 			"city": "Dammam"
 		},
-		"id": "Dammam"
+		"_id": "Dammam"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4839,7 +4839,7 @@
 			"wikipedia": "Samara,_Russia",
 			"city": "Samara"
 		},
-		"id": "Samara"
+		"_id": "Samara"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4850,7 +4850,7 @@
 			"wikipedia": "Manama",
 			"city": "Manama"
 		},
-		"id": "Manama"
+		"_id": "Manama"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4861,7 +4861,7 @@
 			"wikipedia": "Tehran",
 			"city": "Tehran"
 		},
-		"id": "Tehran"
+		"_id": "Tehran"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4872,7 +4872,7 @@
 			"wikipedia": "Doha",
 			"city": "Doha"
 		},
-		"id": "Doha"
+		"_id": "Doha"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4883,7 +4883,7 @@
 			"wikipedia": "Abu_Dhabi",
 			"city": "Abu Dhabi"
 		},
-		"id": "Abu Dhabi"
+		"_id": "Abu Dhabi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4894,7 +4894,7 @@
 			"wikipedia": "Dubai",
 			"city": "Dubai"
 		},
-		"id": "Dubai"
+		"_id": "Dubai"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4905,7 +4905,7 @@
 			"wikipedia": "Victoria,_Seychelles",
 			"city": "Victoria"
 		},
-		"id": "Victoria"
+		"_id": "Victoria"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4916,7 +4916,7 @@
 			"wikipedia": "Saint-Denis,_R%C3%A9union",
 			"city": "Saint-Denis"
 		},
-		"id": "Saint-Denis"
+		"_id": "Saint-Denis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4927,7 +4927,7 @@
 			"wikipedia": "Perm",
 			"city": "Perm"
 		},
-		"id": "Perm"
+		"_id": "Perm"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4938,7 +4938,7 @@
 			"wikipedia": "Port_Louis",
 			"city": "Port Louis"
 		},
-		"id": "Port Louis"
+		"_id": "Port Louis"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4949,7 +4949,7 @@
 			"wikipedia": "Ashgabat",
 			"city": "Ashgabat"
 		},
-		"id": "Ashgabat"
+		"_id": "Ashgabat"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4960,7 +4960,7 @@
 			"wikipedia": "Muscat,_Oman",
 			"city": "Muscat"
 		},
-		"id": "Muscat"
+		"_id": "Muscat"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4971,7 +4971,7 @@
 			"wikipedia": "Nukus",
 			"city": "Nukus"
 		},
-		"id": "Nukus"
+		"_id": "Nukus"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4982,7 +4982,7 @@
 			"wikipedia": "Mashhad",
 			"city": "Mashhad"
 		},
-		"id": "Mashhad"
+		"_id": "Mashhad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -4993,7 +4993,7 @@
 			"wikipedia": "Yekaterinburg",
 			"city": "Yekaterinburg"
 		},
-		"id": "Yekaterinburg"
+		"_id": "Yekaterinburg"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5004,7 +5004,7 @@
 			"wikipedia": "Kandahar",
 			"city": "Kandahar"
 		},
-		"id": "Kandahar"
+		"_id": "Kandahar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5015,7 +5015,7 @@
 			"wikipedia": "Karachi",
 			"city": "Karachi"
 		},
-		"id": "Karachi"
+		"_id": "Karachi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5026,7 +5026,7 @@
 			"wikipedia": "Hyderabad,_Andhra_Pradesh",
 			"city": "Hyderabad"
 		},
-		"id": "Hyderabad"
+		"_id": "Hyderabad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5037,7 +5037,7 @@
 			"wikipedia": "Dushanbe",
 			"city": "Dushanbe"
 		},
-		"id": "Dushanbe"
+		"_id": "Dushanbe"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5048,7 +5048,7 @@
 			"wikipedia": "Kabul",
 			"city": "Kabul"
 		},
-		"id": "Kabul"
+		"_id": "Kabul"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5059,7 +5059,7 @@
 			"wikipedia": "Tashkent",
 			"city": "Tashkent"
 		},
-		"id": "Tashkent"
+		"_id": "Tashkent"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5070,7 +5070,7 @@
 			"wikipedia": "Astana",
 			"city": "Astana"
 		},
-		"id": "Astana"
+		"_id": "Astana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5081,7 +5081,7 @@
 			"wikipedia": "Multan",
 			"city": "Multan"
 		},
-		"id": "Multan"
+		"_id": "Multan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5092,7 +5092,7 @@
 			"wikipedia": "Peshawar",
 			"city": "Peshawar"
 		},
-		"id": "Peshawar"
+		"_id": "Peshawar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5103,7 +5103,7 @@
 			"wikipedia": "Namangan",
 			"city": "Namangan"
 		},
-		"id": "Namangan"
+		"_id": "Namangan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5114,7 +5114,7 @@
 			"wikipedia": "Ahmedabad",
 			"city": "Ahmedabad"
 		},
-		"id": "Ahmedabad"
+		"_id": "Ahmedabad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5125,7 +5125,7 @@
 			"wikipedia": "Mumbai",
 			"city": "Mumbai"
 		},
-		"id": "Mumbai"
+		"_id": "Mumbai"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5136,7 +5136,7 @@
 			"wikipedia": "Surat,_Gujarat",
 			"city": "Surat"
 		},
-		"id": "Surat"
+		"_id": "Surat"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5147,7 +5147,7 @@
 			"wikipedia": "Faisalabad",
 			"city": "Faisalabad"
 		},
-		"id": "Faisalabad"
+		"_id": "Faisalabad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5158,7 +5158,7 @@
 			"wikipedia": "Rawalpindi",
 			"city": "Rawalpindi"
 		},
-		"id": "Rawalpindi"
+		"_id": "Rawalpindi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5169,7 +5169,7 @@
 			"wikipedia": "Islamabad",
 			"city": "Islamabad"
 		},
-		"id": "Islamabad"
+		"_id": "Islamabad"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5180,7 +5180,7 @@
 			"wikipedia": "Omsk",
 			"city": "Omsk"
 		},
-		"id": "Omsk"
+		"_id": "Omsk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5191,7 +5191,7 @@
 			"wikipedia": "Mal%C3%A9",
 			"city": "Mal%C3%A9"
 		},
-		"id": "Mal%C3%A9"
+		"_id": "Mal%C3%A9"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5202,7 +5202,7 @@
 			"wikipedia": "Pune",
 			"city": "Pune"
 		},
-		"id": "Pune"
+		"_id": "Pune"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5213,7 +5213,7 @@
 			"wikipedia": "Lahore",
 			"city": "Lahore"
 		},
-		"id": "Lahore"
+		"_id": "Lahore"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5224,7 +5224,7 @@
 			"wikipedia": "Bishkek",
 			"city": "Bishkek"
 		},
-		"id": "Bishkek"
+		"_id": "Bishkek"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5235,7 +5235,7 @@
 			"wikipedia": "Srinagar",
 			"city": "Srinagar"
 		},
-		"id": "Srinagar"
+		"_id": "Srinagar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5246,7 +5246,7 @@
 			"wikipedia": "Amritsar",
 			"city": "Amritsar"
 		},
-		"id": "Amritsar"
+		"_id": "Amritsar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5257,7 +5257,7 @@
 			"wikipedia": "Jaipur",
 			"city": "Jaipur"
 		},
-		"id": "Jaipur"
+		"_id": "Jaipur"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5268,7 +5268,7 @@
 			"wikipedia": "Ludhiana",
 			"city": "Ludhiana"
 		},
-		"id": "Ludhiana"
+		"_id": "Ludhiana"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5279,7 +5279,7 @@
 			"wikipedia": "Almaty",
 			"city": "Almaty"
 		},
-		"id": "Almaty"
+		"_id": "Almaty"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5290,7 +5290,7 @@
 			"wikipedia": "New_Delhi",
 			"city": "New Delhi"
 		},
-		"id": "New Delhi"
+		"_id": "New Delhi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5301,7 +5301,7 @@
 			"wikipedia": "Bangalore",
 			"city": "Bangalore"
 		},
-		"id": "Bangalore"
+		"_id": "Bangalore"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5312,7 +5312,7 @@
 			"wikipedia": "Nagpur",
 			"city": "Nagpur"
 		},
-		"id": "Nagpur"
+		"_id": "Nagpur"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5323,7 +5323,7 @@
 			"wikipedia": "Colombo",
 			"city": "Colombo"
 		},
-		"id": "Colombo"
+		"_id": "Colombo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5334,7 +5334,7 @@
 			"wikipedia": "Sri_Jayawardenapura-Kotte",
 			"city": "Sri Jayawardenapura-Kotte"
 		},
-		"id": "Sri Jayawardenapura-Kotte"
+		"_id": "Sri Jayawardenapura-Kotte"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5345,7 +5345,7 @@
 			"wikipedia": "Chennai",
 			"city": "Chennai"
 		},
-		"id": "Chennai"
+		"_id": "Chennai"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5356,7 +5356,7 @@
 			"wikipedia": "Kanpur",
 			"city": "Kanpur"
 		},
-		"id": "Kanpur"
+		"_id": "Kanpur"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5367,7 +5367,7 @@
 			"wikipedia": "Kandy",
 			"city": "Kandy"
 		},
-		"id": "Kandy"
+		"_id": "Kandy"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5378,7 +5378,7 @@
 			"wikipedia": "Lucknow",
 			"city": "Lucknow"
 		},
-		"id": "Lucknow"
+		"_id": "Lucknow"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5389,7 +5389,7 @@
 			"wikipedia": "Batticaloa",
 			"city": "Batticaloa"
 		},
-		"id": "Batticaloa"
+		"_id": "Batticaloa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5400,7 +5400,7 @@
 			"wikipedia": "Novosibirsk",
 			"city": "Novosibirsk"
 		},
-		"id": "Novosibirsk"
+		"_id": "Novosibirsk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5411,7 +5411,7 @@
 			"wikipedia": "Patna",
 			"city": "Patna"
 		},
-		"id": "Patna"
+		"_id": "Patna"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5422,7 +5422,7 @@
 			"wikipedia": "Kathmandu",
 			"city": "Kathmandu"
 		},
-		"id": "Kathmandu"
+		"_id": "Kathmandu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5433,7 +5433,7 @@
 			"wikipedia": "%C3%9Cr%C3%BCmqi",
 			"city": "%C3%9Cr%C3%BCmqi"
 		},
-		"id": "%C3%9Cr%C3%BCmqi"
+		"_id": "%C3%9Cr%C3%BCmqi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5444,7 +5444,7 @@
 			"wikipedia": "Norilsk",
 			"city": "Norilsk"
 		},
-		"id": "Norilsk"
+		"_id": "Norilsk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5455,7 +5455,7 @@
 			"wikipedia": "Kolkata",
 			"city": "Kolkata"
 		},
-		"id": "Kolkata"
+		"_id": "Kolkata"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5466,7 +5466,7 @@
 			"wikipedia": "Gangtok",
 			"city": "Gangtok"
 		},
-		"id": "Gangtok"
+		"_id": "Gangtok"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5477,7 +5477,7 @@
 			"wikipedia": "Shigatse",
 			"city": "Shigatse"
 		},
-		"id": "Shigatse"
+		"_id": "Shigatse"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5488,7 +5488,7 @@
 			"wikipedia": "Thimphu",
 			"city": "Thimphu"
 		},
-		"id": "Thimphu"
+		"_id": "Thimphu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5499,7 +5499,7 @@
 			"wikipedia": "Dhaka",
 			"city": "Dhaka"
 		},
-		"id": "Dhaka"
+		"_id": "Dhaka"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5510,7 +5510,7 @@
 			"wikipedia": "Lhasa",
 			"city": "Lhasa"
 		},
-		"id": "Lhasa"
+		"_id": "Lhasa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5521,7 +5521,7 @@
 			"wikipedia": "Agartala",
 			"city": "Agartala"
 		},
-		"id": "Agartala"
+		"_id": "Agartala"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5532,7 +5532,7 @@
 			"wikipedia": "Guwahati",
 			"city": "Guwahati"
 		},
-		"id": "Guwahati"
+		"_id": "Guwahati"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5543,7 +5543,7 @@
 			"wikipedia": "Chittagong",
 			"city": "Chittagong"
 		},
-		"id": "Chittagong"
+		"_id": "Chittagong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5554,7 +5554,7 @@
 			"wikipedia": "Shillong",
 			"city": "Shillong"
 		},
-		"id": "Shillong"
+		"_id": "Shillong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5565,7 +5565,7 @@
 			"wikipedia": "Port_Blair",
 			"city": "Port Blair"
 		},
-		"id": "Port Blair"
+		"_id": "Port Blair"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5576,7 +5576,7 @@
 			"wikipedia": "Dibrugarh",
 			"city": "Dibrugarh"
 		},
-		"id": "Dibrugarh"
+		"_id": "Dibrugarh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5587,7 +5587,7 @@
 			"wikipedia": "Banda_Aceh",
 			"city": "Banda Aceh"
 		},
-		"id": "Banda Aceh"
+		"_id": "Banda Aceh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5595,10 +5595,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Naypyidaw",
-			"city": "Naypyidaw"
+			"wikipedia": "Naypy_idaw",
+			"city": "Naypy_idaw"
 		},
-		"id": "Naypyidaw"
+		"_id": "Naypy_idaw"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5609,7 +5609,7 @@
 			"wikipedia": "Yangon",
 			"city": "Yangon"
 		},
-		"id": "Yangon"
+		"_id": "Yangon"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5620,7 +5620,7 @@
 			"wikipedia": "Medan",
 			"city": "Medan"
 		},
-		"id": "Medan"
+		"_id": "Medan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5631,7 +5631,7 @@
 			"wikipedia": "Phuket_(city)",
 			"city": "Phuket (city)"
 		},
-		"id": "Phuket (city)"
+		"_id": "Phuket (city)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5642,7 +5642,7 @@
 			"wikipedia": "Chiang_Mai",
 			"city": "Chiang Mai"
 		},
-		"id": "Chiang Mai"
+		"_id": "Chiang Mai"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5653,7 +5653,7 @@
 			"wikipedia": "Surat_Thani",
 			"city": "Surat Thani"
 		},
-		"id": "Surat Thani"
+		"_id": "Surat Thani"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5664,7 +5664,7 @@
 			"wikipedia": "Padang,_Indonesia",
 			"city": "Padang"
 		},
-		"id": "Padang"
+		"_id": "Padang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5675,7 +5675,7 @@
 			"wikipedia": "Alor_Star",
 			"city": "Alor Star"
 		},
-		"id": "Alor Star"
+		"_id": "Alor Star"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5686,7 +5686,7 @@
 			"wikipedia": "Hat_Yai",
 			"city": "Hat Yai"
 		},
-		"id": "Hat Yai"
+		"_id": "Hat Yai"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5697,7 +5697,7 @@
 			"wikipedia": "Bangkok",
 			"city": "Bangkok"
 		},
-		"id": "Bangkok"
+		"_id": "Bangkok"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5708,7 +5708,7 @@
 			"wikipedia": "Pattaya",
 			"city": "Pattaya"
 		},
-		"id": "Pattaya"
+		"_id": "Pattaya"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5719,7 +5719,7 @@
 			"wikipedia": "Ipoh",
 			"city": "Ipoh"
 		},
-		"id": "Ipoh"
+		"_id": "Ipoh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5730,7 +5730,7 @@
 			"wikipedia": "Pekanbaru",
 			"city": "Pekanbaru"
 		},
-		"id": "Pekanbaru"
+		"_id": "Pekanbaru"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5741,7 +5741,7 @@
 			"wikipedia": "Bratsk",
 			"city": "Bratsk"
 		},
-		"id": "Bratsk"
+		"_id": "Bratsk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5752,7 +5752,7 @@
 			"wikipedia": "Kuala_Lumpur",
 			"city": "Kuala Lumpur"
 		},
-		"id": "Kuala Lumpur"
+		"_id": "Kuala Lumpur"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5763,7 +5763,7 @@
 			"wikipedia": "Xining",
 			"city": "Xining"
 		},
-		"id": "Xining"
+		"_id": "Xining"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5774,7 +5774,7 @@
 			"wikipedia": "Nakhon_Ratchasima",
 			"city": "Nakhon Ratchasima"
 		},
-		"id": "Nakhon Ratchasima"
+		"_id": "Nakhon Ratchasima"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5785,7 +5785,7 @@
 			"wikipedia": "Kota_Bharu",
 			"city": "Kota Bharu"
 		},
-		"id": "Kota Bharu"
+		"_id": "Kota Bharu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5796,7 +5796,7 @@
 			"wikipedia": "Malacca_Town",
 			"city": "Malacca Town"
 		},
-		"id": "Malacca Town"
+		"_id": "Malacca Town"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5807,7 +5807,7 @@
 			"wikipedia": "Vientiane",
 			"city": "Vientiane"
 		},
-		"id": "Vientiane"
+		"_id": "Vientiane"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5818,7 +5818,7 @@
 			"wikipedia": "Kunming",
 			"city": "Kunming"
 		},
-		"id": "Kunming"
+		"_id": "Kunming"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5829,7 +5829,7 @@
 			"wikipedia": "Udon_Thani",
 			"city": "Udon Thani"
 		},
-		"id": "Udon Thani"
+		"_id": "Udon Thani"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5840,7 +5840,7 @@
 			"wikipedia": "Johor_Bahru",
 			"city": "Johor Bahru"
 		},
-		"id": "Johor Bahru"
+		"_id": "Johor Bahru"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5851,7 +5851,7 @@
 			"wikipedia": "Lanzhou",
 			"city": "Lanzhou"
 		},
-		"id": "Lanzhou"
+		"_id": "Lanzhou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5862,7 +5862,7 @@
 			"wikipedia": "Singapore",
 			"city": "Singapore"
 		},
-		"id": "Singapore"
+		"_id": "Singapore"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5873,7 +5873,7 @@
 			"wikipedia": "Siem_Reap",
 			"city": "Siem Reap"
 		},
-		"id": "Siem Reap"
+		"_id": "Siem Reap"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5884,7 +5884,7 @@
 			"wikipedia": "Chengdu",
 			"city": "Chengdu"
 		},
-		"id": "Chengdu"
+		"_id": "Chengdu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5895,7 +5895,7 @@
 			"wikipedia": "Palembang",
 			"city": "Palembang"
 		},
-		"id": "Palembang"
+		"_id": "Palembang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5906,7 +5906,7 @@
 			"wikipedia": "Phnom_Penh",
 			"city": "Phnom Penh"
 		},
-		"id": "Phnom Penh"
+		"_id": "Phnom Penh"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5917,7 +5917,7 @@
 			"wikipedia": "Hanoi",
 			"city": "Hanoi"
 		},
-		"id": "Hanoi"
+		"_id": "Hanoi"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5928,7 +5928,7 @@
 			"wikipedia": "Chongqing",
 			"city": "Chongqing"
 		},
-		"id": "Chongqing"
+		"_id": "Chongqing"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5939,7 +5939,7 @@
 			"wikipedia": "Hai_Phong",
 			"city": "Hai Phong"
 		},
-		"id": "Hai Phong"
+		"_id": "Hai Phong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5950,7 +5950,7 @@
 			"wikipedia": "Ho_Chi_Minh_City",
 			"city": "Ho Chi Minh City"
 		},
-		"id": "Ho Chi Minh City"
+		"_id": "Ho Chi Minh City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5961,7 +5961,7 @@
 			"wikipedia": "Jakarta",
 			"city": "Jakarta"
 		},
-		"id": "Jakarta"
+		"_id": "Jakarta"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5972,7 +5972,7 @@
 			"wikipedia": "Bogor",
 			"city": "Bogor"
 		},
-		"id": "Bogor"
+		"_id": "Bogor"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5983,7 +5983,7 @@
 			"wikipedia": "Ulan_Bator",
 			"city": "Ulan Bator"
 		},
-		"id": "Ulan Bator"
+		"_id": "Ulan Bator"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -5994,7 +5994,7 @@
 			"wikipedia": "Bandung",
 			"city": "Bandung"
 		},
-		"id": "Bandung"
+		"_id": "Bandung"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6005,7 +6005,7 @@
 			"wikipedia": "Hu%E1%BA%BF",
 			"city": "Hu%E1%BA%BF"
 		},
-		"id": "Hu%E1%BA%BF"
+		"_id": "Hu%E1%BA%BF"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6016,7 +6016,7 @@
 			"wikipedia": "Da_Nang",
 			"city": "Da Nang"
 		},
-		"id": "Da Nang"
+		"_id": "Da Nang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6027,7 +6027,7 @@
 			"wikipedia": "Nanning",
 			"city": "Nanning"
 		},
-		"id": "Nanning"
+		"_id": "Nanning"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6038,7 +6038,7 @@
 			"wikipedia": "Xi%27an",
 			"city": "Xi%27an"
 		},
-		"id": "Xi%27an"
+		"_id": "Xi%27an"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6049,7 +6049,7 @@
 			"wikipedia": "Pontianak,_Indonesia",
 			"city": "Pontianak"
 		},
-		"id": "Pontianak"
+		"_id": "Pontianak"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6060,7 +6060,7 @@
 			"wikipedia": "Kuching",
 			"city": "Kuching"
 		},
-		"id": "Kuching"
+		"_id": "Kuching"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6071,7 +6071,7 @@
 			"wikipedia": "Yogyakarta_(city)",
 			"city": "Yogyakarta (city)"
 		},
-		"id": "Yogyakarta (city)"
+		"_id": "Yogyakarta (city)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6082,7 +6082,7 @@
 			"wikipedia": "Semarang",
 			"city": "Semarang"
 		},
-		"id": "Semarang"
+		"_id": "Semarang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6093,7 +6093,7 @@
 			"wikipedia": "Taiyuan",
 			"city": "Taiyuan"
 		},
-		"id": "Taiyuan"
+		"_id": "Taiyuan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6104,7 +6104,7 @@
 			"wikipedia": "Malang",
 			"city": "Malang"
 		},
-		"id": "Malang"
+		"_id": "Malang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6115,7 +6115,7 @@
 			"wikipedia": "Surabaya",
 			"city": "Surabaya"
 		},
-		"id": "Surabaya"
+		"_id": "Surabaya"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6126,7 +6126,7 @@
 			"wikipedia": "Guangzhou",
 			"city": "Guangzhou"
 		},
-		"id": "Guangzhou"
+		"_id": "Guangzhou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6137,7 +6137,7 @@
 			"wikipedia": "Macau",
 			"city": "Macau"
 		},
-		"id": "Macau"
+		"_id": "Macau"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6148,7 +6148,7 @@
 			"wikipedia": "Zhengzhou",
 			"city": "Zhengzhou"
 		},
-		"id": "Zhengzhou"
+		"_id": "Zhengzhou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6159,7 +6159,7 @@
 			"wikipedia": "Dongguan",
 			"city": "Dongguan"
 		},
-		"id": "Dongguan"
+		"_id": "Dongguan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6170,7 +6170,7 @@
 			"wikipedia": "Miri",
 			"city": "Miri"
 		},
-		"id": "Miri"
+		"_id": "Miri"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6181,7 +6181,7 @@
 			"wikipedia": "Shenzhen",
 			"city": "Shenzhen"
 		},
-		"id": "Shenzhen"
+		"_id": "Shenzhen"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6192,7 +6192,7 @@
 			"wikipedia": "Hong Kong",
 			"city": "Hong Kong"
 		},
-		"id": "Hong Kong"
+		"_id": "Hong Kong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6203,7 +6203,7 @@
 			"wikipedia": "Wuhan",
 			"city": "Wuhan"
 		},
-		"id": "Wuhan"
+		"_id": "Wuhan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6214,7 +6214,7 @@
 			"wikipedia": "Handan",
 			"city": "Handan"
 		},
-		"id": "Handan"
+		"_id": "Handan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6225,7 +6225,7 @@
 			"wikipedia": "Shijiazhuang",
 			"city": "Shijiazhuang"
 		},
-		"id": "Shijiazhuang"
+		"_id": "Shijiazhuang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6236,7 +6236,7 @@
 			"wikipedia": "Bandar_Seri_Begawan",
 			"city": "Bandar Seri Begawan"
 		},
-		"id": "Bandar Seri Begawan"
+		"_id": "Bandar Seri Begawan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6247,7 +6247,7 @@
 			"wikipedia": "Denpasar",
 			"city": "Denpasar"
 		},
-		"id": "Denpasar"
+		"_id": "Denpasar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6258,7 +6258,7 @@
 			"wikipedia": "Mandurah",
 			"city": "Mandurah"
 		},
-		"id": "Mandurah"
+		"_id": "Mandurah"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6269,7 +6269,7 @@
 			"wikipedia": "Perth,_Western_Australia",
 			"city": "Perth"
 		},
-		"id": "Perth"
+		"_id": "Perth"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6280,7 +6280,7 @@
 			"wikipedia": "Kota_Kinabalu",
 			"city": "Kota Kinabalu"
 		},
-		"id": "Kota Kinabalu"
+		"_id": "Kota Kinabalu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6291,7 +6291,7 @@
 			"wikipedia": "Beijing",
 			"city": "Beijing"
 		},
-		"id": "Beijing"
+		"_id": "Beijing"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6302,7 +6302,7 @@
 			"wikipedia": "Balikpapan",
 			"city": "Balikpapan"
 		},
-		"id": "Balikpapan"
+		"_id": "Balikpapan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6313,7 +6313,7 @@
 			"wikipedia": "Jinan",
 			"city": "Jinan"
 		},
-		"id": "Jinan"
+		"_id": "Jinan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6324,7 +6324,7 @@
 			"wikipedia": "Tianjin",
 			"city": "Tianjin"
 		},
-		"id": "Tianjin"
+		"_id": "Tianjin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6335,7 +6335,7 @@
 			"wikipedia": "Port_Hedland,_Western_Australia",
 			"city": "Port Hedland"
 		},
-		"id": "Port Hedland"
+		"_id": "Port Hedland"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6346,7 +6346,7 @@
 			"wikipedia": "Nanjing",
 			"city": "Nanjing"
 		},
-		"id": "Nanjing"
+		"_id": "Nanjing"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6357,7 +6357,7 @@
 			"wikipedia": "Makassar",
 			"city": "Makassar"
 		},
-		"id": "Makassar"
+		"_id": "Makassar"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6368,7 +6368,7 @@
 			"wikipedia": "Hangzhou",
 			"city": "Hangzhou"
 		},
-		"id": "Hangzhou"
+		"_id": "Hangzhou"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6379,7 +6379,7 @@
 			"wikipedia": "Kaohsiung",
 			"city": "Kaohsiung"
 		},
-		"id": "Kaohsiung"
+		"_id": "Kaohsiung"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6390,7 +6390,7 @@
 			"wikipedia": "Qingdao",
 			"city": "Qingdao"
 		},
-		"id": "Qingdao"
+		"_id": "Qingdao"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6401,7 +6401,7 @@
 			"wikipedia": "Taichung",
 			"city": "Taichung"
 		},
-		"id": "Taichung"
+		"_id": "Taichung"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6412,7 +6412,7 @@
 			"wikipedia": "Manila",
 			"city": "Manila"
 		},
-		"id": "Manila"
+		"_id": "Manila"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6423,7 +6423,7 @@
 			"wikipedia": "Quezon_City",
 			"city": "Quezon City"
 		},
-		"id": "Quezon City"
+		"_id": "Quezon City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6434,7 +6434,7 @@
 			"wikipedia": "Makati_City",
 			"city": "Makati City"
 		},
-		"id": "Makati City"
+		"_id": "Makati City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6445,7 +6445,7 @@
 			"wikipedia": "Shanghai",
 			"city": "Shanghai"
 		},
-		"id": "Shanghai"
+		"_id": "Shanghai"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6456,7 +6456,7 @@
 			"wikipedia": "Taipei",
 			"city": "Taipei"
 		},
-		"id": "Taipei"
+		"_id": "Taipei"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6467,7 +6467,7 @@
 			"wikipedia": "Dalian",
 			"city": "Dalian"
 		},
-		"id": "Dalian"
+		"_id": "Dalian"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6478,7 +6478,7 @@
 			"wikipedia": "Iloilo_City",
 			"city": "Iloilo City"
 		},
-		"id": "Iloilo City"
+		"_id": "Iloilo City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6489,7 +6489,7 @@
 			"wikipedia": "Zamboanga_City",
 			"city": "Zamboanga City"
 		},
-		"id": "Zamboanga City"
+		"_id": "Zamboanga City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6500,7 +6500,7 @@
 			"wikipedia": "Shenyang",
 			"city": "Shenyang"
 		},
-		"id": "Shenyang"
+		"_id": "Shenyang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6511,7 +6511,7 @@
 			"wikipedia": "Tagbilaran",
 			"city": "Tagbilaran"
 		},
-		"id": "Tagbilaran"
+		"_id": "Tagbilaran"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6522,7 +6522,7 @@
 			"wikipedia": "Cebu_City",
 			"city": "Cebu City"
 		},
-		"id": "Cebu City"
+		"_id": "Cebu City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6533,7 +6533,7 @@
 			"wikipedia": "Changchun",
 			"city": "Changchun"
 		},
-		"id": "Changchun"
+		"_id": "Changchun"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6544,7 +6544,7 @@
 			"wikipedia": "Dili",
 			"city": "Dili"
 		},
-		"id": "Dili"
+		"_id": "Dili"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6555,7 +6555,7 @@
 			"wikipedia": "Pyongyang",
 			"city": "Pyongyang"
 		},
-		"id": "Pyongyang"
+		"_id": "Pyongyang"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6566,7 +6566,7 @@
 			"wikipedia": "Davao_City",
 			"city": "Davao City"
 		},
-		"id": "Davao City"
+		"_id": "Davao City"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6577,7 +6577,7 @@
 			"wikipedia": "Kaesong",
 			"city": "Kaesong"
 		},
-		"id": "Kaesong"
+		"_id": "Kaesong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6588,7 +6588,7 @@
 			"wikipedia": "Harbin",
 			"city": "Harbin"
 		},
-		"id": "Harbin"
+		"_id": "Harbin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6599,7 +6599,7 @@
 			"wikipedia": "Incheon",
 			"city": "Incheon"
 		},
-		"id": "Incheon"
+		"_id": "Incheon"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6610,7 +6610,7 @@
 			"wikipedia": "Seoul",
 			"city": "Seoul"
 		},
-		"id": "Seoul"
+		"_id": "Seoul"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6621,7 +6621,7 @@
 			"wikipedia": "Wonsan",
 			"city": "Wonsan"
 		},
-		"id": "Wonsan"
+		"_id": "Wonsan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6632,7 +6632,7 @@
 			"wikipedia": "Okinawa,_Okinawa",
 			"city": "Okinawa"
 		},
-		"id": "Okinawa"
+		"_id": "Okinawa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6643,7 +6643,7 @@
 			"wikipedia": "Ambon,_Maluku",
 			"city": "Ambon"
 		},
-		"id": "Ambon"
+		"_id": "Ambon"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6654,7 +6654,7 @@
 			"wikipedia": "Daegu",
 			"city": "Daegu"
 		},
-		"id": "Daegu"
+		"_id": "Daegu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6665,7 +6665,7 @@
 			"wikipedia": "Busan",
 			"city": "Busan"
 		},
-		"id": "Busan"
+		"_id": "Busan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6676,7 +6676,7 @@
 			"wikipedia": "Yakutsk",
 			"city": "Yakutsk"
 		},
-		"id": "Yakutsk"
+		"_id": "Yakutsk"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6687,7 +6687,7 @@
 			"wikipedia": "Chongjin",
 			"city": "Chongjin"
 		},
-		"id": "Chongjin"
+		"_id": "Chongjin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6698,7 +6698,7 @@
 			"wikipedia": "Fukuoka",
 			"city": "Fukuoka"
 		},
-		"id": "Fukuoka"
+		"_id": "Fukuoka"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6709,7 +6709,7 @@
 			"wikipedia": "Darwin,_Northern_Territory",
 			"city": "Darwin"
 		},
-		"id": "Darwin"
+		"_id": "Darwin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6720,7 +6720,7 @@
 			"wikipedia": "Vladivostok",
 			"city": "Vladivostok"
 		},
-		"id": "Vladivostok"
+		"_id": "Vladivostok"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6731,7 +6731,7 @@
 			"wikipedia": "Hiroshima",
 			"city": "Hiroshima"
 		},
-		"id": "Hiroshima"
+		"_id": "Hiroshima"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6742,7 +6742,7 @@
 			"wikipedia": "Koror",
 			"city": "Koror"
 		},
-		"id": "Koror"
+		"_id": "Koror"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6753,7 +6753,7 @@
 			"wikipedia": "Melekeok",
 			"city": "Melekeok"
 		},
-		"id": "Melekeok"
+		"_id": "Melekeok"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6764,7 +6764,7 @@
 			"wikipedia": "Kobe",
 			"city": "Kobe"
 		},
-		"id": "Kobe"
+		"_id": "Kobe"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6775,7 +6775,7 @@
 			"wikipedia": "Osaka",
 			"city": "Osaka"
 		},
-		"id": "Osaka"
+		"_id": "Osaka"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6786,7 +6786,7 @@
 			"wikipedia": "Kyoto",
 			"city": "Kyoto"
 		},
-		"id": "Kyoto"
+		"_id": "Kyoto"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6797,7 +6797,7 @@
 			"wikipedia": "Nagoya",
 			"city": "Nagoya"
 		},
-		"id": "Nagoya"
+		"_id": "Nagoya"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6805,10 +6805,10 @@
 		},
 		"type": "Feature",
 		"properties": {
-			"wikipedia": "Adelaide",
-			"city": "Adelaide"
+			"wikipedia": "Adela_ide",
+			"city": "Adela_ide"
 		},
-		"id": "Adelaide"
+		"_id": "Adela_ide"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6819,7 +6819,7 @@
 			"wikipedia": "Yokohama",
 			"city": "Yokohama"
 		},
-		"id": "Yokohama"
+		"_id": "Yokohama"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6830,7 +6830,7 @@
 			"wikipedia": "Kawasaki,_Kanagawa",
 			"city": "Kawasaki"
 		},
-		"id": "Kawasaki"
+		"_id": "Kawasaki"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6841,7 +6841,7 @@
 			"wikipedia": "Tokyo",
 			"city": "Tokyo"
 		},
-		"id": "Tokyo"
+		"_id": "Tokyo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6852,7 +6852,7 @@
 			"wikipedia": "Jayapura",
 			"city": "Jayapura"
 		},
-		"id": "Jayapura"
+		"_id": "Jayapura"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6863,7 +6863,7 @@
 			"wikipedia": "Sapporo",
 			"city": "Sapporo"
 		},
-		"id": "Sapporo"
+		"_id": "Sapporo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6874,7 +6874,7 @@
 			"wikipedia": "Geelong",
 			"city": "Geelong"
 		},
-		"id": "Geelong"
+		"_id": "Geelong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6885,7 +6885,7 @@
 			"wikipedia": "Hag%C3%A5t%C3%B1a,_Guam",
 			"city": "Hag%C3%A5t%C3%B1a"
 		},
-		"id": "Hag%C3%A5t%C3%B1a"
+		"_id": "Hag%C3%A5t%C3%B1a"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6896,7 +6896,7 @@
 			"wikipedia": "Dededo,_Guam",
 			"city": "Dededo"
 		},
-		"id": "Dededo"
+		"_id": "Dededo"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6907,7 +6907,7 @@
 			"wikipedia": "Melbourne",
 			"city": "Melbourne"
 		},
-		"id": "Melbourne"
+		"_id": "Melbourne"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6918,7 +6918,7 @@
 			"wikipedia": "Saipan",
 			"city": "Saipan"
 		},
-		"id": "Saipan"
+		"_id": "Saipan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6929,7 +6929,7 @@
 			"wikipedia": "Cairns",
 			"city": "Cairns"
 		},
-		"id": "Cairns"
+		"_id": "Cairns"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6940,7 +6940,7 @@
 			"wikipedia": "Townsville",
 			"city": "Townsville"
 		},
-		"id": "Townsville"
+		"_id": "Townsville"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6951,7 +6951,7 @@
 			"wikipedia": "Port_Moresby",
 			"city": "Port Moresby"
 		},
-		"id": "Port Moresby"
+		"_id": "Port Moresby"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6962,7 +6962,7 @@
 			"wikipedia": "Hobart",
 			"city": "Hobart"
 		},
-		"id": "Hobart"
+		"_id": "Hobart"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6973,7 +6973,7 @@
 			"wikipedia": "Canberra",
 			"city": "Canberra"
 		},
-		"id": "Canberra"
+		"_id": "Canberra"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6984,7 +6984,7 @@
 			"wikipedia": "Rockhampton",
 			"city": "Rockhampton"
 		},
-		"id": "Rockhampton"
+		"_id": "Rockhampton"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -6995,7 +6995,7 @@
 			"wikipedia": "Magadan",
 			"city": "Magadan"
 		},
-		"id": "Magadan"
+		"_id": "Magadan"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7006,7 +7006,7 @@
 			"wikipedia": "Wollongong",
 			"city": "Wollongong"
 		},
-		"id": "Wollongong"
+		"_id": "Wollongong"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7017,7 +7017,7 @@
 			"wikipedia": "Sydney",
 			"city": "Sydney"
 		},
-		"id": "Sydney"
+		"_id": "Sydney"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7028,7 +7028,7 @@
 			"wikipedia": "Newcastle,_New_South_Wales",
 			"city": "Newcastle"
 		},
-		"id": "Newcastle"
+		"_id": "Newcastle"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7039,7 +7039,7 @@
 			"wikipedia": "Weno",
 			"city": "Weno"
 		},
-		"id": "Weno"
+		"_id": "Weno"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7050,7 +7050,7 @@
 			"wikipedia": "Brisbane",
 			"city": "Brisbane"
 		},
-		"id": "Brisbane"
+		"_id": "Brisbane"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7061,7 +7061,7 @@
 			"wikipedia": "Gold_Coast,_Queensland",
 			"city": "Gold Coast"
 		},
-		"id": "Gold Coast"
+		"_id": "Gold Coast"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7072,7 +7072,7 @@
 			"wikipedia": "Palikir",
 			"city": "Palikir"
 		},
-		"id": "Palikir"
+		"_id": "Palikir"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7083,7 +7083,7 @@
 			"wikipedia": "Petropavlovsk-Kamchatsky",
 			"city": "Petropavlovsk-Kamchatsky"
 		},
-		"id": "Petropavlovsk-Kamchatsky"
+		"_id": "Petropavlovsk-Kamchatsky"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7094,7 +7094,7 @@
 			"wikipedia": "Honiara",
 			"city": "Honiara"
 		},
-		"id": "Honiara"
+		"_id": "Honiara"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7105,7 +7105,7 @@
 			"wikipedia": "Noum%C3%A9a",
 			"city": "Noum%C3%A9a"
 		},
-		"id": "Noum%C3%A9a"
+		"_id": "Noum%C3%A9a"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7116,7 +7116,7 @@
 			"wikipedia": "Yaren_District",
 			"city": "Yaren District"
 		},
-		"id": "Yaren District"
+		"_id": "Yaren District"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7127,7 +7127,7 @@
 			"wikipedia": "Port_Vila",
 			"city": "Port Vila"
 		},
-		"id": "Port Vila"
+		"_id": "Port Vila"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7138,7 +7138,7 @@
 			"wikipedia": "Invercargill",
 			"city": "Invercargill"
 		},
-		"id": "Invercargill"
+		"_id": "Invercargill"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7149,7 +7149,7 @@
 			"wikipedia": "Dunedin",
 			"city": "Dunedin"
 		},
-		"id": "Dunedin"
+		"_id": "Dunedin"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7160,7 +7160,7 @@
 			"wikipedia": "Majuro",
 			"city": "Majuro"
 		},
-		"id": "Majuro"
+		"_id": "Majuro"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7171,7 +7171,7 @@
 			"wikipedia": "Christchurch",
 			"city": "Christchurch"
 		},
-		"id": "Christchurch"
+		"_id": "Christchurch"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7182,7 +7182,7 @@
 			"wikipedia": "South_Tarawa",
 			"city": "South Tarawa"
 		},
-		"id": "South Tarawa"
+		"_id": "South Tarawa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7193,7 +7193,7 @@
 			"wikipedia": "Wellington",
 			"city": "Wellington"
 		},
-		"id": "Wellington"
+		"_id": "Wellington"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7204,7 +7204,7 @@
 			"wikipedia": "Auckland",
 			"city": "Auckland"
 		},
-		"id": "Auckland"
+		"_id": "Auckland"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7215,7 +7215,7 @@
 			"wikipedia": "Mata-Utu",
 			"city": "Mata-Utu"
 		},
-		"id": "Mata-Utu"
+		"_id": "Mata-Utu"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7226,7 +7226,7 @@
 			"wikipedia": "Anadyr_(town)",
 			"city": "Anadyr (town)"
 		},
-		"id": "Anadyr (town)"
+		"_id": "Anadyr (town)"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7237,7 +7237,7 @@
 			"wikipedia": "Suva",
 			"city": "Suva"
 		},
-		"id": "Suva"
+		"_id": "Suva"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7248,7 +7248,7 @@
 			"wikipedia": "Funafuti",
 			"city": "Funafuti"
 		},
-		"id": "Funafuti"
+		"_id": "Funafuti"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7259,7 +7259,7 @@
 			"wikipedia": "Labasa",
 			"city": "Labasa"
 		},
-		"id": "Labasa"
+		"_id": "Labasa"
 	}, {
 		"geometry": {
 			"type": "Point",
@@ -7270,6 +7270,6 @@
 			"wikipedia": "Nukulaelae",
 			"city": "Nukulaelae"
 		},
-		"id": "Nukulaelae"
+		"_id": "Nukulaelae"
 	}]
 }
