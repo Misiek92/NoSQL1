@@ -196,6 +196,8 @@ W tym:42061 unikatowych
 Na potrzeby tego zadania stworzyłem własną listę miast [cities.json](https://github.com/Misiek92/NoSQL1/blob/master/cities.json) na podstawie [Wikipedii](http://en.wikipedia.org/wiki/List_of_cities_by_longitude).
 
 Wpierw trzeba zaimportować go do mongo:
+
+
 ```
 mongoimport -d mongoTest -c cities < cities.json
 ```
@@ -205,7 +207,26 @@ a następnie:
 db.cities.ensureIndex({"loc" : "2dsphere"})
 ```
 
+```
+function fixToJson() {
+	var database = db.cities.find();
 
+	dataBase.forEach(function (input) {
+		if (!input.loc) {
+			var newRow = {
+				"_id": input._id,
+				"loc": {
+				"type": "Point",
+				"coordinates": input.coordinates
+				}
+			}
+			db.cities.remove({"_id": input._id});
+			db.cities.insert(newRow);
+		}
+	});
+	print("Zaaktualizowano");
+}
+```
 
 
 
