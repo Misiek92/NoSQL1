@@ -59,3 +59,26 @@ db.getglue.findOne()
 }
 ```
 
+Trochę statystyk:
+```
+db.getglue.stats()
+{
+	"ns" : "mongoTest.getglue",
+	"count" : 19831300,
+	"size" : 18280980928,
+	"avgObjSize" : 921,
+	"numExtents" : 30,
+	"storageSize" : 20038070176,
+	"nindexes" : 1,
+	"lastExtentSize" : 2146426864,
+	"paddingFactor" : 1,
+	"paddingFactorNote" : "paddingFactor is unused and unmaintained in 2.8. It remains hard coded to 1.0 for compatibility only.",
+	"userFlags" : 1,
+	"totalIndexSize" : 643606544,
+	"indexSizes" : {
+		"_id_" : 643606544
+	},
+	"ok" : 1
+}
+```
+
