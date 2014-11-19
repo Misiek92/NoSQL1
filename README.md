@@ -241,6 +241,8 @@ Funkcję oczywiście wywołuję.
 
 ####Przykładowe geospatial queries
 
+Do obrobienia json do geojson skorzystałem z [mongodb-geojson-normalize](https://www.npmjs.org/package/mongodb-geojson-normalize)
+
 Gdybyśmy zaginęli u wybrzeży grenlandii, jakie miasta są najbliżej?
 ```
 var punkt = {
