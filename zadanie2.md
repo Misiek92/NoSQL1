@@ -85,19 +85,38 @@ db.getglue.stats()
 ### Agregacje
 
 Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w jakiej ilości.
+
+##### Javascript
 ```
 > db.getglue.aggregate(
-...    { $group: {
-...        _id: "$modelName",
-...        total: { $sum: 1 }
-...    } },
-...    { $sort: { total: -1 } }
-...  )
+    { $group: {
+        _id: "$modelName",
+        total: { $sum: 1 }
+    } },
+    { $sort: { total: -1 } }
+  )
 { "_id" : "tv_shows", "total" : 12258355 }
 { "_id" : "movies", "total" : 7572855 }
 { "_id" : null, "total" : 56 }
 { "_id" : "topics", "total" : 23 }
 { "_id" : "recording_artists", "total" : 11 }
+```
+
+##### pymongo
+```
+>>> import pymongo
+>>> client = pymongo.MongoClient("localhost", 27017)
+>>> db = client.mongoTest
+>>> db.name
+u'mongoTest'
+db.getglue.aggregate([
+    { "$group": {
+        "_id": "$modelName",
+        "total": { "$sum": 1 }
+    } },
+    { "$sort": { "total": -1 } }
+])
+{u'ok': 1.0, u'result': [{u'total': 12258355, u'_id': u'tv_shows'}, {u'total': 7572855, u'_id': u'movies'}, {u'total': 56, u'_id': None}, {u'total': 23, u'_id': u'topics'}, {u'total': 11, u'_id': u'recording_artists'}]}
 ```
 | modelName        | total           |
 | ------------- |:-------------:|
@@ -108,6 +127,8 @@ Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w
 | recording_artists      | 11     |
 
 Zaintrygowany tymi "recording_artists" postanowiłem to sprawdzić...
+
+##### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -120,12 +141,29 @@ db.getglue.aggregate(
 )
 ```
 
+
 Wynik jednak nieco mnie rozczarował, bo jest niewiele mówiący
 ```
 { "_id" : "net@night", "total" : 4 }
 { "_id" : "Engadget", "total" : 2 }
 { "_id" : "Twit", "total" : 5 }
 ```
+
+##### pymongo
+```
+db.getglue.aggregate([
+   { "$match": {
+	"modelName": "recording_artists"
+   } },
+   { "$group": {
+       "_id": "$title",
+       "total": { "$sum": 1 }
+   } }
+])
+{u'ok': 1.0, u'result': [{u'total': 4, u'_id': u'net@night'}, {u'total': 2, u'_id': u'Engadget'}, {u'total': 5, u'_id': u'Twit'}]}
+```
+
+
 | _id        | total           |
 | ------------- |:-------------:|
 | net@night      | 4 |
@@ -134,6 +172,8 @@ Wynik jednak nieco mnie rozczarował, bo jest niewiele mówiący
 
 
 Wracając jednak do tematu, podstawową rzeczą jaka może przyjść do głowy mając bazę filmową jest... Sprawdzenie np. który reżyser stworzył najwięcej filmów (top 3):
+
+##### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -153,6 +193,25 @@ db.getglue.aggregate(
 { "_id" : "tim burton", "total" : 101732 }
 { "_id" : "bill condon", "total" : 97818 }
 ```
+
+##### pymongo
+```
+db.getglue.aggregate([
+   { "$match": {
+	"modelName": "movies"
+   } },
+   { "$group": {
+       "_id": "$director",
+       "total": { "$sum": 1 }
+   } },
+   { "$sort": { 
+	"total": -1 
+   } },
+   { "$limit": 3 }
+])
+
+```
+
 | _id        | total           |
 | ------------- |:-------------:|
 | steven spielberg      | 108553 |
@@ -160,6 +219,8 @@ db.getglue.aggregate(
 | bill condon      | 97818      |
 
 Wynik jak jednak widać jest nieco... niewiarygodny. Postanowiłem zatem powtórzyć zapytanie z wrażeniem, że dane filmy się mogą powtarzać.
+
+##### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -182,6 +243,11 @@ db.getglue.aggregate(
 { "_id" : "alfred hitchcock", "total" : 50 }
 ```
 
+##### pymongo
+```
+
+```
+
 | _id        | total           |
 | ------------- |:-------------:|
 | not available      | 1474 |
@@ -192,6 +258,8 @@ Jak widać, te dane są dużo sensowniejsze, mimo iż pierwsze 2 pozycje są de 
 
 
 Interesowało mnie również to, jakiego filmu najczęściej szukali internauci. Jako miernik uznałem liczbę odwiedzin.
+
+##### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -208,4 +276,9 @@ db.getglue.aggregate(
 { "_id" : { "title" : "Sherlock Holmes and the Baker Street Irregulars" } }
 { "_id" : { "title" : "Stanley and Iris" } }
 { "_id" : { "title" : "Extreme Ice: Nova" } }
+```
+
+##### pymongo
+```
+
 ```
