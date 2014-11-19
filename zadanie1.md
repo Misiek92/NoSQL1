@@ -3,7 +3,7 @@ NoSQL Zadanie 1
 
 ####Zadanie 1a
 
-SELECT * W zadaniu został wykorzystany plik [Train.zip](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/Train.zip)
+W zadaniu został wykorzystany plik [Train.zip](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/Train.zip)
 Jego struktura to "Id", "Title", "Body", "Tags", nam jednak potrzebne jest przerobienie tego pliku do formatu, gdzie "Id" stanie się "_Id".
 Dodatkowo w pliku znajdują się znaki nowej linii, które trzeba usunąć. Oba te problemy rozwiązuje skrypt [2unix.sh](https://github.com/nosql/aggregations-2/blob/master/scripts/wbzyl/2unix.sh) dostępny w repozytorium prowadzącego.
 
