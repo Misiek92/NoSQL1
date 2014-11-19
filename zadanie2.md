@@ -286,7 +286,6 @@ db.getglue.aggregate([
 
 ![Wykres slupkowy 2](https://cloud.githubusercontent.com/assets/1538320/5107241/40e3c1b4-7000-11e4-8c35-ff8eea50f2c6.png "Wykres")
 
-### Zapytanie 5
 
 Powyższe wyniki dają nam kilka cennych informacji:
 - 1474 filmów w bazie nie ma określonego reżysera,
@@ -299,7 +298,7 @@ Moglibyśmy wykorzystać tutaj
 ```
 Ale w takim wypadku nie byłoby to już stricte top 3.
 
-### Zapytanie 6
+### Zapytanie 5
 
 Interesowało mnie również to, jakiego filmu najczęściej szukali internauci. Jako miernik uznałem liczbę odwiedzin.
 
