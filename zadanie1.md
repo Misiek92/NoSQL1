@@ -1,7 +1,11 @@
 NoSQL Zadanie 1
 ===============
 
-####Zadanie 1a
+## Spis treści
+@@TOC@@
+
+## Zadania
+### Zadanie 1a
 
 W zadaniu został wykorzystany plik [Train.zip](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/download/Train.zip)
 Jego struktura to "Id", "Title", "Body", "Tags", nam jednak potrzebne jest przerobienie tego pliku do formatu, gdzie "Id" stanie się "_Id".
@@ -121,7 +125,7 @@ Zestawienie MongoDB i Postgresql
 
 ![porownanie mongo z postgre](https://cloud.githubusercontent.com/assets/1538320/5104902/11e35afa-6fe7-11e4-9895-784726b2c700.png "porownanie mongo z postgre")
 
-####Zadanie 1b
+###Zadanie 1b
 
 Ilość wyników postgres zliczył nam już przy dodawaniu, tę samą wartość zwraca również zapytanie
 ```
@@ -134,7 +138,7 @@ db.train.count()
 6034195
 ```
 
-####Zadanie 1c
+###Zadanie 1c
 
 By zamienić kolumnę "tags" na tablicę w postgresie, możemy posłużyć się następującym zapytaniem:
 ```
@@ -263,7 +267,7 @@ W tym:42061 unikatowych
 Stosunek unikatowych tagów do duplikatów:
 ![tagi](https://cloud.githubusercontent.com/assets/1538320/5104903/135054c4-6fe7-11e4-9aba-1ad856a1967d.png "tagi")
 
-####Zadanie 1d
+###Zadanie 1d
 
 Do tego zadania wykorzystałem [tę listę miast](https://github.com/mahemoff/geodata/blob/master/cities.geojson) stworzoną na podstawie [Wikipedii](http://en.wikipedia.org/wiki/List_of_cities_by_longitude). Udostępniam ją również na swoim repo [cities.json](https://github.com/Misiek92/NoSQL1/blob/master/cities.geojson).
 
@@ -311,7 +315,7 @@ function fixToJson() {
 
 Funkcję oczywiście wywołuję.
 
-####Przykładowe geospatial queries
+###Przykładowe geospatial queries
 
 Do obrobienia json do geojson skorzystałem z [mongodb-geojson-normalize](https://www.npmjs.org/package/mongodb-geojson-normalize) ponieważ nie udało mi się dojść do tego, by w jq w obiekcie zagnieździć inny obiekt (błąd składni, w manualu nie znalazłem takiego case'a).
 
