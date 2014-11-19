@@ -267,7 +267,7 @@ Funkcję oczywiście wywołuję.
 
 ####Przykładowe geospatial queries
 
-Do obrobienia json do geojson skorzystałem z [mongodb-geojson-normalize](https://www.npmjs.org/package/mongodb-geojson-normalize)
+Do obrobienia json do geojson skorzystałem z [mongodb-geojson-normalize](https://www.npmjs.org/package/mongodb-geojson-normalize) ponieważ nie udało mi się dojść do tego, by w jq w obiekcie zagnieździć inny obiekt (błąd składni, w manualu nie znalazłem takiego case'a).
 
 Gdybyśmy zaginęli u wybrzeży grenlandii, jakie miasta są najbliżej? [Mapka](https://github.com/Misiek92/NoSQL1/blob/master/geospatial1.geojson)
 ```
