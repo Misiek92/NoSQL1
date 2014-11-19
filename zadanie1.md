@@ -183,44 +183,13 @@ SELECT SUM(array_length(tags, 1)) FROM train;
  17409994
 ```
 
-Próbę zliczenia unikalnych tagów w postgresie porzuciłem, bowiem jedyny pomysł jaki miałem, wiem z doświadczenia że by trwał bardzo długo. Pseudo kod, który planowałem stworzyć
+Ilość unikalnych tagów możemy zliczyć przez komendę
 ```
-i = 1 integer,
-j = 0 integer,
-table text[],
-temp text[],
-tempLength integer,
-tempOne text,
-
-count = select count(id) from train;
-
-LOOP
-SELECT tags from train where id = i INTO temp;
-tempLength = select array_length(temp, 1);
-
-LOOP
-IF temp[j] != any table THEN
-array_append(table, temp[j])
-END IF;
-
-
-IF j = tempLength THEN
- BREAK;
-END IF;
-END;
-
-
-IF i >= count THEN
- BREAK;
-END;
-END;
-
-return array_length(table, 1);
+SELECT unnest(tags) FROM train GROUP BY unnest(tags);
+(42061 rows)
 ```
 
-Sytuacja w mongo wygląda jednak zgoła inaczej :)
-
-Dla potrzeb tego zadania napisałem prostą funkcję, która wpierw zamienia stringa na arraya i za jednym ciosem zlicza ilość powtórzeń i wykrywa unikatowe wystąpienia tagów.
+W przypadku mongo, dla potrzeb tego zadania napisałem prostą funkcję, która wpierw zamienia stringa na arraya i za jednym ciosem zlicza ilość powtórzeń i wykrywa unikatowe wystąpienia tagów.
 
 ```
 function operationsOnTags() {
