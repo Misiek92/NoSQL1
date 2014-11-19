@@ -82,13 +82,13 @@ db.getglue.stats()
 }
 ```
 
-### Agregacje
+## Agregacje
 
 Jako [MongoDB Driver](http://docs.mongodb.org/ecosystem/drivers/) Użyłem PyMongo
 
 Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w jakiej ilości.
 
-##### Javascript
+#### Javascript
 ```
 > db.getglue.aggregate(
     { $group: {
@@ -104,7 +104,7 @@ Na początku postanowiłem sprawdzić jakie "modelName" występują w ogóle i w
 { "_id" : "recording_artists", "total" : 11 }
 ```
 
-##### PyMongo
+#### PyMongo
 ```
 >>> import pymongo
 >>> client = pymongo.MongoClient("localhost", 27017)
@@ -128,9 +128,11 @@ db.getglue.aggregate([
 | topics      | 23     |
 | recording_artists      | 11     |
 
+![Wykres kolowy 1](https://cloud.githubusercontent.com/assets/1538320/5107238/40db7afe-7000-11e4-9073-25aa96b112ce.png "Wykres")
+
 Zaintrygowany tymi "recording_artists" postanowiłem to sprawdzić...
 
-##### Javascript
+#### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -151,7 +153,7 @@ Wynik jednak nieco mnie rozczarował, bo jest niewiele mówiący
 { "_id" : "Twit", "total" : 5 }
 ```
 
-##### PyMongo
+#### PyMongo
 ```
 db.getglue.aggregate([
    { "$match": {
@@ -165,17 +167,18 @@ db.getglue.aggregate([
 {u'ok': 1.0, u'result': [{u'total': 4, u'_id': u'net@night'}, {u'total': 2, u'_id': u'Engadget'}, {u'total': 5, u'_id': u'Twit'}]}
 ```
 
-
 | _id        | total           |
 | ------------- |:-------------:|
 | net@night      | 4 |
 | Engadget      | 2     |
 | Twit      | 5      |
 
+![Wykres kolowy 2](https://cloud.githubusercontent.com/assets/1538320/5107239/40dd3556-7000-11e4-9655-ed0468db4cc2.png "Wykres")
+
 
 Wracając jednak do tematu, podstawową rzeczą jaka może przyjść do głowy mając bazę filmową jest... Sprawdzenie np. który reżyser stworzył najwięcej filmów (top 3):
 
-##### Javascript
+#### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -196,7 +199,7 @@ db.getglue.aggregate(
 { "_id" : "bill condon", "total" : 97818 }
 ```
 
-##### PyMongo
+#### PyMongo
 ```
 db.getglue.aggregate([
    { "$match": {
@@ -220,9 +223,11 @@ db.getglue.aggregate([
 | tim burton      | 101732     |
 | bill condon      | 97818      |
 
+![Wykres slupkowy 1](https://cloud.githubusercontent.com/assets/1538320/5107240/40e130b6-7000-11e4-9483-f56ebcd7b77c.png "Wykres")
+
 Wynik jak jednak widać jest nieco... niewiarygodny. Postanowiłem zatem powtórzyć zapytanie z wrażeniem, że dane filmy się mogą powtarzać.
 
-##### Javascript
+#### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -245,7 +250,7 @@ db.getglue.aggregate(
 { "_id" : "alfred hitchcock", "total" : 50 }
 ```
 
-##### PyMongo
+#### PyMongo
 ```
 db.getglue.aggregate([
    { "$match": {
@@ -263,6 +268,7 @@ db.getglue.aggregate([
    } },
    { "$limit": 3 }
 ])
+{u'ok': 1.0, u'result': [{u'total': 1474, u'_id': u'not available'}, {u'total': 54, u'_id': u'various directors'}, {u'total': 50, u'_id': u'alfred hitchcock'}]}
 ```
 
 | _id        | total           |
@@ -271,12 +277,14 @@ db.getglue.aggregate([
 | various directors      | 54     |
 | alfred hitchcock      | 50      |
 
+![Wykres slupkowy 2](https://cloud.githubusercontent.com/assets/1538320/5107241/40e3c1b4-7000-11e4-8c35-ff8eea50f2c6.png "Wykres")
+
 Jak widać, te dane są dużo sensowniejsze, mimo iż pierwsze 2 pozycje są de facto śmieciowe, to jednak wiemy, że w tej bazie najwięcej filmów nakręcił Alfred Hitchcock.
 
 
 Interesowało mnie również to, jakiego filmu najczęściej szukali internauci. Jako miernik uznałem liczbę odwiedzin.
 
-##### Javascript
+#### Javascript
 ```
 db.getglue.aggregate(
    { $match: {
@@ -295,7 +303,7 @@ db.getglue.aggregate(
 { "_id" : { "title" : "Extreme Ice: Nova" } }
 ```
 
-##### PyMongo
+#### PyMongo
 ```
 db.getglue.aggregate([
    { "$match": {
@@ -309,4 +317,11 @@ db.getglue.aggregate([
    } },
    { "$limit": 3 }
 ])
+{u'ok': 1.0, u'result': [{u'_id': {u'title': u'Sailor Moon 2: The Movie'}}, {u'_id': {u'title': u'Defamation'}}, {u'_id': {u'title': u'Stanley and Iris'}}]}
 ```
+
+| lp        | total           |
+| ------------- |:-------------:|
+| 1      | Sherlock Holmes and the Baker Street Irregulars |
+| 2      | Stanley and Iris     |
+| 3      | Extreme Ice: Nova      |
