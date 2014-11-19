@@ -1,10 +1,14 @@
-  { 
-    "type": "FeatureCollection",
-    "features": [
-      { 
-                "type": "Feature",
-                "geometry": { 
-                    "coordinates" : [
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               16.710205078125,
               54.56569261911192
             ],
@@ -115,13 +119,10 @@
             [
               16.710205078125,
               54.56569261911192
-            ], 
-                "type" : "Polygon" 
-                },
-                "properties": {
-                "Wojewodztwo" : "Pomorskie"
-
-                }
-            }
+            ]
+          ]
         ]
+      }
     }
+  ]
+}
