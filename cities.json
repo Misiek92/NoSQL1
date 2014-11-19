@@ -1,0 +1,39 @@
+{"_id":"Adak",  loc:{"type":"Point","coordinates":[51.883,-176.633]}}
+{"_id":"Apia",  loc:{"type":"Point","coordinates":[-13.833,-171.833]}}
+{"_id":"Alofi",  loc:{"type":"Point","coordinates":[-19.05,-169.917]}}
+{"_id":"Honolulu",  loc:{"type":"Point","coordinates":[21.3,-157.817]}}
+{"_id":"Sitka",  loc:{"type":"Point","coordinates":[57.05,-135.317]}}
+{"_id":"Whitehorse",  loc:{"type":"Point","coordinates":[60.717,-135.05]}}
+{"_id":"Adamstown",  loc:{"type":"Point","coordinates":[-25.067,-130.1]}}
+{"_id":"Vancouver",  loc:{"type":"Point","coordinates":[49.25,-123.1]}}
+{"_id":"Portland",  loc:{"type":"Point","coordinates":[45.517,-122.667]}}
+{"_id":"Seattle",  loc:{"type":"Point","coordinates":[47.6,-122.317]}}
+{"_id":"Los Angeles",  loc:{"type":"Point","coordinates":[34.05,-118.25]}}
+{"_id":"San Diego",  loc:{"type":"Point","coordinates":[32.767,-117.15]}}
+{"_id":"Las Vegas",  loc:{"type":"Point","coordinates":[36.167,-115.133]}}
+{"_id":"Phoenix",  loc:{"type":"Point","coordinates":[33.433,-112.067]}}
+{"_id":"Salt Lake City",  loc:{"type":"Point","coordinates":[40.75,-111.883]}}
+{"_id":"Saint-Pierre",  loc:{"type":"Point","coordinates":[46.767,-56.167]}}
+{"_id":"Cayenne",  loc:{"type":"Point","coordinates":[4.917,-52.317]}}
+{"_id":"Curitiba",  loc:{"type":"Point","coordinates":[-25.417,-49.25]}}
+{"_id":"Brikama",  loc:{"type":"Point","coordinates":[13.267,-16.65]}}
+{"_id":"Dublin",  loc:{"type":"Point","coordinates":[53.333,-6.267]}}
+{"_id":"Belfast",  loc:{"type":"Point","coordinates":[54.6,-5.917]}}
+{"_id":"Glasgow",  loc:{"type":"Point","coordinates":[55.85,-4.25]}}
+{"_id":"Bilbao",  loc:{"type":"Point","coordinates":[43.25,-2.917]}}
+{"_id":"Nantes",  loc:{"type":"Point","coordinates":[47.217,-1.55]}}
+{"_id":"Porto-Novo",  loc:{"type":"Point","coordinates":[6.5,2.6]}}
+{"_id":"Nice",  loc:{"type":"Point","coordinates":[43.7,7.267]}}
+{"_id":"Moroni",  loc:{"type":"Point","coordinates":[-11.75,43.2]}}
+{"_id":"Xining",  loc:{"type":"Point","coordinates":[36.633,101.767]}}
+{"_id":"Singapore",  loc:{"type":"Point","coordinates":[1.367,103.8]}}
+{"_id":"Chongqing",  loc:{"type":"Point","coordinates":[29.55,106.5]}}
+{"_id":"Pontianak",  loc:{"type":"Point","coordinates":[0,109.333]}}
+{"_id":"Taiyuan",  loc:{"type":"Point","coordinates":[37.867,112.55]}}
+{"_id":"Hong Kong",  loc:{"type":"Point","coordinates":[22.3,114.2]}}
+{"_id":"Kota Kinabalu",  loc:{"type":"Point","coordinates":[5.967,116.083]}}
+{"_id":"Nukulaelae",  loc:{"type":"Point","coordinates":[-9.383,179.85]}}
+{"_id":"Milwaukee",  loc:{"type":"Point","coordinates":[47.05,-87.95]}}
+{"_id":"Gdańsk",  loc:{"type":"Point","coordinates":[54.35,18.667]}}
+{"_id":"Warsaw",  loc:{"type":"Point","coordinates":[52.233,21]}}
+{"_id":"Kaliningrad",  loc:{"type":"Point","coordinates":[54.717,20.517]}}
