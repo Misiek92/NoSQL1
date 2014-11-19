@@ -73,6 +73,19 @@ db.train.stats()
 }
 ```
 
+Jako, iż miałem problem z system-monitor (powszechny błąd natychmiastowego wyłączania się) skorzystałem z alternatywnej aplikacji "htop"
+
+Zazwyczaj mongo korzystało z jednego rdzenia (niekoniecznie pierwszego)
+![status monitor 1](https://cloud.githubusercontent.com/assets/1538320/5104747/77774fb8-6fe5-11e4-9d32-05594c984bf6.png "status monitor 1")
+
+Zdarzały się jednak momenty próby rozłożenia obciążenia równomiernie:
+![status monitor 3](https://cloud.githubusercontent.com/assets/1538320/5104800/e620136e-6fe5-11e4-9d28-425c66be80d6.png "status monitor 3")
+
+Jak i dziwne przypadki, gdy rdzenie nie były praktycznie w ogóle wykorzystane
+![status monitor 4](https://cloud.githubusercontent.com/assets/1538320/5104801/e7d617b2-6fe5-11e4-91db-2161191877b6.png "status monitor 4")
+
+
+
 
 Przyszedł czas wykonać te same operacje, lecz dla bazy postgres. Do tego celu, trzeba wcześniej stworzyć nową tabelę:
 ```
@@ -93,6 +106,10 @@ Time: 1484708,929 ms
 | ------------- |:-------------:|
 | Time      | 1484708,929 ms |
 | W minutach      | 24,74 min    |
+
+Screen z htop. Postgres raczej cały czas "jechał" na jednym rdzeniu.
+
+![status monitor 2](https://cloud.githubusercontent.com/assets/1538320/5104799/e33cdb96-6fe5-11e4-9352-eebf1c3b33f5.png "status monitor 2")
 
 
 Zestawienie MongoDB i Postgresql
