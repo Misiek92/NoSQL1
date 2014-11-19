@@ -1,8 +1,15 @@
-Zadanie 2 NoSQL
-===============
+#Zadanie 2 NoSQL
 
 ## Spis treści
-@@TOC@@
+- [Zadanie 2 NoSQL](#zadanie-2-nosql)
+    - [Spis treści](#spis-treści)
+    - [Wprowadzenie](#wprowadzenie)
+    - [Agregacje](#agregacje)
+        - [Zapytanie 1](#zapytanie-1)
+        - [Zapytanie 2](#zapytanie-2)
+        - [Zapytanie 3](#zapytanie-3)
+        - [Zapytanie 4](#zapytanie-4)
+        - [Zapytanie 5](#zapytanie-5)
 
 ##Wprowadzenie
 
@@ -343,7 +350,7 @@ db.getglue.aggregate([
 {u'ok': 1.0, u'result': [{u'_id': {u'title': u'Sailor Moon 2: The Movie'}}, {u'_id': {u'title': u'Defamation'}}, {u'_id': {u'title': u'Stanley and Iris'}}]}
 ```
 
-| lp        | total           |
+| lp        | title           |
 | ------------- |:-------------:|
 | 1      | Sherlock Holmes and the Baker Street Irregulars |
 | 2      | Stanley and Iris     |
