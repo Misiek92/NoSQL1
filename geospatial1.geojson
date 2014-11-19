@@ -1,0 +1,52 @@
+  { 
+    "type": "FeatureCollection",
+    "features": [
+      { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ -51.75, 64.167 ], 
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Yamoussoukro", 
+
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ -21.933, 64.133 ]
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Reykjav%C3%ADk", 
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ -57.85, 51.683 ]
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Stanley", 
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ -68.517, 63.75 ]
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Iqaluit", 
+                }
+            }, { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ -52.7, 47.55 ]
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "St. John%27s", 
+                }
+            }
+        ]
+    }
