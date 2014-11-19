@@ -133,3 +133,79 @@ Wynik jednak nieco mnie rozczarował, bo jest niewiele mówiący
 | Twit      | 5      |
 
 
+Wracając jednak do tematu, podstawową rzeczą jaka może przyjść do głowy mając bazę filmową jest... Sprawdzenie np. który reżyser stworzył najwięcej filmów (top 3):
+```
+db.getglue.aggregate(
+   { $match: {
+	"modelName": "movies"
+   } },
+   { $group: {
+       _id: "$director",
+       total: { $sum: 1 }
+   } },
+   { $sort: { 
+	total: -1 
+   } },
+   { $limit: 3 }
+)
+
+{ "_id" : "steven spielberg", "total" : 108553 }
+{ "_id" : "tim burton", "total" : 101732 }
+{ "_id" : "bill condon", "total" : 97818 }
+```
+| _id        | total           |
+| ------------- |:-------------:|
+| steven spielberg      | 108553 |
+| tim burton      | 101732     |
+| bill condon      | 97818      |
+
+Wynik jak jednak widać jest nieco... niewiarygodny. Postanowiłem zatem powtórzyć zapytanie z wrażeniem, że dane filmy się mogą powtarzać.
+```
+db.getglue.aggregate(
+   { $match: {
+	"modelName": "movies"
+   } },
+   { $group: {
+       _id: {"director": "$director", "id": "$title"}
+   } },
+   { $group: {
+       _id: "$_id.director",
+       total: { $sum: 1 }
+   } },
+   { $sort: { 
+	total: -1 
+   } },
+   { $limit: 3 }
+)
+{ "_id" : "not available", "total" : 1474 }
+{ "_id" : "various directors", "total" : 54 }
+{ "_id" : "alfred hitchcock", "total" : 50 }
+```
+
+| _id        | total           |
+| ------------- |:-------------:|
+| not available      | 1474 |
+| various directors      | 54     |
+| alfred hitchcock      | 50      |
+
+Jak widać, te dane są dużo sensowniejsze, mimo iż pierwsze 2 pozycje są de facto śmieciowe, to jednak wiemy, że w tej bazie najwięcej filmów nakręcił Alfred Hitchcock.
+
+
+Interesowało mnie również to, jakiego filmu najczęściej szukali internauci. Jako miernik uznałem liczbę odwiedzin.
+```
+db.getglue.aggregate(
+   { $match: {
+	"modelName": "movies"
+   } },
+   { $group: {
+	_id: {"title": "$title", "visitCount": "$visitCount"}
+   } },
+   { $sort: { 
+	visitCount: -1 
+   } },
+   { $limit: 3 }
+)
+{ "_id" : { "title" : "Sherlock Holmes and the Baker Street Irregulars" } }
+{ "_id" : { "title" : "Stanley and Iris" } }
+{ "_id" : { "title" : "Extreme Ice: Nova" } }
+```
