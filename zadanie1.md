@@ -119,6 +119,8 @@ Zestawienie MongoDB i Postgresql
 | MongoDB      | 19.28 minut |
 | W minutach      | 24,74 minuty    |
 
+![porownanie mongo z postgre](https://cloud.githubusercontent.com/assets/1538320/5104902/11e35afa-6fe7-11e4-9895-784726b2c700.png "porownanie mongo z postgre")
+
 ####Zadanie 1b
 
 Ilość wyników postgres zliczył nam już przy dodawaniu, tę samą wartość zwraca również zapytanie
@@ -257,6 +259,9 @@ W tym:42061 unikatowych
 | ------------- |:-------------:|
 | Łącznie      | 17409994 |
 | Unikatowych      | 42061    |
+
+Stosunek unikatowych tagów do duplikatów:
+![tagi](https://cloud.githubusercontent.com/assets/1538320/5104903/135054c4-6fe7-11e4-9aba-1ad856a1967d.png "tagi")
 
 ####Zadanie 1d
 
