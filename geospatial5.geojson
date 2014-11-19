@@ -1,0 +1,16 @@
+  { 
+    "type": "FeatureCollection",
+    "features": [
+      { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 2.6, 6.5 ], 
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Porto-Novo"
+
+                }
+            }
+        ]
+    }
