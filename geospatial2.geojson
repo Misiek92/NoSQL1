@@ -1,0 +1,16 @@
+  { 
+    "type": "FeatureCollection",
+    "features": [
+      { 
+                "type": "Feature",
+                "geometry": { 
+                    "coordinates" : [ 18.667, 54.35 ], 
+                    "type" : "Point" 
+                },
+                "properties": {
+                    "_id" : "Gda%C5%84sk"
+
+                }
+            }
+        ]
+    }
